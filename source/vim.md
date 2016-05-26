@@ -95,3 +95,4 @@
 1. [syntastic](https://github.com/scrooloose/syntastic)
 1. [Install vim-gnome to copy to clipboard](http://vim.wikia.com/wiki/Accessing_the_system_clipboard)
 1. [vim-jsbeautify](https://github.com/maksimr/vim-jsbeautify)
+1. [vim-gitgutter](https://github.com/airblade/vim-gitgutter)
