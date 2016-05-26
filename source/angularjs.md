@@ -121,3 +121,7 @@
 1. [Exploring the Angular 1.5 .component() method](https://toddmotto.com/exploring-the-angular-1-5-component-method/)
 1. [Improving Angular performance with 1 line of code](https://medium.com/swlh/improving-angular-performance-with-1-line-of-code-a1fb814a6476#.qh99pqgtb)
 1. [ngMap](https://github.com/allenhwkim/angularjs-google-maps)
+1. [NG Modules](http://ngmodules.org/)
+1. [angularjs UI bootstrap modal with google places](http://stackoverflow.com/questions/27005608/angularjs-ui-bootstrap-modal-with-google-places)
+1. [SERVICE VS FACTORY - ONCE AND FOR ALL](http://blog.thoughtram.io/angular/2015/07/07/service-vs-factory-once-and-for-all.html)
+1. [ui-router Resources](https://github.com/angular-ui/ui-router#resources)
