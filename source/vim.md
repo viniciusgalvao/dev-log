@@ -60,6 +60,7 @@
 1. [Everyday Vim – A Basic Vim Commands Cheat Sheet](https://spin.atomicobject.com/2016/04/19/vim-commands-cheat-sheet/)
 1. [VIM + Syntastic: how to disable the checker?](http://stackoverflow.com/questions/20030603/vim-syntastic-how-to-disable-the-checker)
 1. [Refresh changed content of file opened in vim](http://unix.stackexchange.com/a/149210)
+1. [Setting Vim whitespace preferences by filetype](http://stackoverflow.com/a/1563552/2849745)
 
 ## Vim Plugins
 

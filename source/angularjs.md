@@ -137,3 +137,6 @@
 1. [Developer Guide / Components](https://docs.angularjs.org/guide/component)
 1. [3 Simple Tips for Using UI-Router](https://scotch.io/tutorials/3-simple-tips-for-using-ui-router)
 1. [Interceptors in AngularJS and Useful Examples](http://www.webdeveasy.com/interceptors-in-angularjs-and-useful-examples/)
+1. [Add bkg-img dynamically with ng-style](http://stackoverflow.com/a/18485156/2849745)
+1. [Filtering by object property](http://stackoverflow.com/questions/27606595/ngrepeat-filter-by-deep-property) - [other](http://stackoverflow.com/questions/17793751/how-to-filter-by-object-property-in-angularjs)
+1. [ng-youtube-embed](https://github.com/ArunMichaelDsouza/ng-youtube-embed)

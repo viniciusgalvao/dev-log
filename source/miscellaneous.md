@@ -350,3 +350,6 @@
 1. [The Rise of the Full Stack JavaScript Developer](http://thefullstack.xyz/full-stack-javascript-developer/)
 1. [Como Eu Usei O Cartão De Crédito Do CEO Do Trampos.co Para Pagar Minha Assinatura Premium](http://www.fidelis.work/como-eu-usei-o-cartao-de-credito-do-ceo-do-trampos-co-para-pagar-minha-assinatura-premium/)
 1. [Não vale a pena contar pra ninguém os seus planos](http://incrivel.club/inspiracao-psicologia/nao-vale-a-pena-contar-pra-ninguem-os-seus-planos-50705/)
+1. [I deleted my Facebook account one year ago](https://oncletom.io/2016/facebook/)
+1. [O que aprendi lendo 100 livros em 1 ano](http://edmarferreira.com/o-eu-aprendi-tentando-ler-100-livros-em-1-ano/)
+1. [Por que eu decidi parar de reclamar e criar um aplicativo por mês](http://edmarferreira.com/por-que-eu-decidi-parar-de-reclamar-e-criar-um-aplicativo-por-mes)

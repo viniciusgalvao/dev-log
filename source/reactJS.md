@@ -25,3 +25,4 @@
 1. [With React, I Don’t Need to Be a Ninja Rock Star Unicorn](http://dejanglozic.com/2015/09/21/with-react-i-dont-need-to-be-a-ninja-rock-star-unicorn/) 
 1. [ReactJS: The Day After](http://dejanglozic.com/2015/08/21/reactjs-the-day-after/) 
 1. [PayPal, You Got Me At ‘Isomorphic ReactJS’](http://dejanglozic.com/2015/07/06/paypal-you-got-me-at-isomorphic-reactjs/) 
+1. [Angular Directives Mapped to React](https://daveceddia.com/angular-directives-mapped-to-react/)
