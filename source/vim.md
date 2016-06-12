@@ -61,6 +61,7 @@
 1. [VIM + Syntastic: how to disable the checker?](http://stackoverflow.com/questions/20030603/vim-syntastic-how-to-disable-the-checker)
 1. [Refresh changed content of file opened in vim](http://unix.stackexchange.com/a/149210)
 1. [Setting Vim whitespace preferences by filetype](http://stackoverflow.com/a/1563552/2849745)
+1. [Modify Remote Files with VIM's Built in FTP Plugin](https://www.marksanborn.net/software/modify-remote-files-with-vims-built-in-ftp-plugin/)
 
 ## Vim Plugins
 

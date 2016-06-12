@@ -353,3 +353,4 @@
 1. [I deleted my Facebook account one year ago](https://oncletom.io/2016/facebook/)
 1. [O que aprendi lendo 100 livros em 1 ano](http://edmarferreira.com/o-eu-aprendi-tentando-ler-100-livros-em-1-ano/)
 1. [Por que eu decidi parar de reclamar e criar um aplicativo por mês](http://edmarferreira.com/por-que-eu-decidi-parar-de-reclamar-e-criar-um-aplicativo-por-mes)
+1. [Three Virtues](http://threevirtues.com/)

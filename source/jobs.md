@@ -62,3 +62,4 @@
 1. [3 Days](http://3days.com.br/)
 1. [200 Startups Hiring Remotely in 2016](https://medium.com/@rdutel/200-startups-hiring-remotely-in-2016-1d4299e5163f#.lc4f2zibk)
 1. [Who is hiring](https://whoishiring.io)
+1. [Salary Negotiation: how not to set a bunch of money on fire](https://medium.freecodecamp.com/salary-negotiation-how-not-to-set-a-bunch-of-money-on-fire-605aabbaf84b#.udhpgbsoy)

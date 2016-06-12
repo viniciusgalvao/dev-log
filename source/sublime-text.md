@@ -5,6 +5,7 @@
 1. [Syntax highlighting for Jade in Sublime Text](http://stackoverflow.com/questions/7666977/syntax-highlighting-for-jade-in-sublime-text-2)
 1. [Meus plugins favoritos do Sublime Text](http://willianjusten.com.br/meus-plugins-favoritos-do-sublime-text/)
 1. [How to get scss and Less files to have color?](http://stackoverflow.com/a/29666299/2849745)
+.1 [Search in all files in a project in Sublime Text 3](http://stackoverflow.com/questions/20519040/search-in-all-files-in-a-project-in-sublime-text-3)
 
 ## Sublime Puglins
 

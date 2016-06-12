@@ -42,3 +42,5 @@
 1. [How to keep footers at the bottom of the page](http://matthewjamestaylor.com/blog/keeping-footers-at-the-bottom-of-the-page)
 1. [CSS '>' selector](http://stackoverflow.com/questions/4459821/css-selector-what-is-it)
 1. [Modern Clean CSS “Sticky Footer”](http://mystrd.at/modern-clean-css-sticky-footer/)
+1. [idiomatic-css](https://github.com/necolas/idiomatic-css)
+1. [Commenting CSS](http://wilsonpage.co.uk/commenting-css/)
