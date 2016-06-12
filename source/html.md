@@ -27,3 +27,4 @@
 1. [What does “for” attribute do in label tags](http://stackoverflow.com/questions/18432376/what-does-for-attribute-do-in-label-tags)
 1. [HTML Character Entity Reference](http://dev.w3.org/html5/html-author/charref)
 1. [HTML reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference)
+1. [A list of everything that could go in the <head> of your document](https://github.com/joshbuchea/HEAD)

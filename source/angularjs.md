@@ -147,3 +147,4 @@
 1. [Angular — New features in Angular 1.5](https://medium.com/google-developer-experts/angular-new-features-in-angularjs-1-5-24f9b503af15#.6s480jkat)
 1. [$watch an object](http://stackoverflow.com/a/19455564/2849745)
 1. [How to use a keypress event in AngularJS?](http://stackoverflow.com/questions/17470790/how-to-use-a-keypress-event-in-angularjs)
+1. [Angular Code Review](https://angularcodereview.com/)
