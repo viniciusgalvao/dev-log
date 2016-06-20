@@ -43,3 +43,4 @@
 1. [Sprite Cow](http://www.spritecow.com/)
 1. [Screenfly - Test responsive pages](http://quirktools.com/screenfly)
 1. [Megaboilerplate](http://megaboilerplate.com/)
+1. [How to Use BrowserSync for Faster Development](https://scotch.io/tutorials/how-to-use-browsersync-for-faster-development)

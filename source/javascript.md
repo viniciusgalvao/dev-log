@@ -196,3 +196,4 @@
 1. [What even is Vanilla JS these days?](http://ianfeather.co.uk/what-even-is-vanilla-js-these-days/)
 1. [The Cost of Frameworks](https://aerotwist.com/blog/the-cost-of-frameworks)
 1. [You (probably) don't need a JavaScript framework](https://slack-files.com/T03JT4FC2-F151AAF7A-13fe6f98da)
+1. [The Vanilla Javascript Repository](http://www.vanillalist.com/)

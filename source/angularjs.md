@@ -148,3 +148,6 @@
 1. [$watch an object](http://stackoverflow.com/a/19455564/2849745)
 1. [How to use a keypress event in AngularJS?](http://stackoverflow.com/questions/17470790/how-to-use-a-keypress-event-in-angularjs)
 1. [Angular Code Review](https://angularcodereview.com/)
+1. [Sorting with ng-options](http://stackoverflow.com/a/12311163/2849745)
+1. [A new Angular 1.x ES2015 styleguide, the path to Angular 2](https://toddmotto.com/rewriting-angular-styleguide-angular-2)
+1. [Mouse Events](http://www.angularjshub.com/examples/eventhandlers/mouseevents/)
