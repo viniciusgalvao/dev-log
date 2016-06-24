@@ -31,3 +31,4 @@
 1. [Getting xbacklight and brightness keys to work](http://www.ryocentral.info/2013/07/getting-xbacklight-and-brightness-keys.html)
 1. [Installing Photoshop CS6 on Ubuntu 14.04](http://www.bendangelo.me/install/2014/10/29/installing-photoshop-cs6-on-ubuntu.html)
 1. [SimpleScreenRecorder](http://www.maartenbaert.be/simplescreenrecorder/)
+1. [Control brightness on second monitor](http://askubuntu.com/a/397109)

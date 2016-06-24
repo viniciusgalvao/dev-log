@@ -2,8 +2,6 @@
 
 1. [remotehackers - Remote jobs for hackers](http://remotehackers.com/)
 1. [ITFlow - best remote IT Jobs](http://itflow.biz/)
-1. [Empregocerto](http://empregocerto.uol.com.br/)
-1. [CEVIU](http://www.ceviu.com.br/)
 1. [ZOFE Trampos](http://zofe.com.br/trampos/)
 1. [Onde Trabalhar](http://www.ondetrabalhar.com/)
 1. [jobfan](http://jobfan.co/)
@@ -13,8 +11,6 @@
 1. [NPM - who is hiring](https://www.npmjs.com/whoshiring)
 1. [Careers - StackOverflow](http://careers.stackoverflow.com/)
 1. [Trampos](http://trampos.co/)
-1. [EmpregosTI](http://www.empregosti.com.br/)
-1. [Emprego ti](http://www.empregoti.com/)
 1. [Nodejs - jobs](http://jobs.nodejs.org/a/jobs/list/)
 1. [Front-end  Developer Job](http://frontenddeveloperjob.com/)
 1. [We Work Remotely](https://weworkremotely.com)
@@ -63,3 +59,4 @@
 1. [200 Startups Hiring Remotely in 2016](https://medium.com/@rdutel/200-startups-hiring-remotely-in-2016-1d4299e5163f#.lc4f2zibk)
 1. [Who is hiring](https://whoishiring.io)
 1. [Salary Negotiation: how not to set a bunch of money on fire](https://medium.freecodecamp.com/salary-negotiation-how-not-to-set-a-bunch-of-money-on-fire-605aabbaf84b#.udhpgbsoy)
+1. [A Ciência Por Trás do Dia de 6 Horas de Trabalho da Suécia](http://br.blog.trello.com/6-horas-de-trabalho-da-suecia/)
