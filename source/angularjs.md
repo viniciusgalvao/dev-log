@@ -151,3 +151,4 @@
 1. [Sorting with ng-options](http://stackoverflow.com/a/12311163/2849745)
 1. [A new Angular 1.x ES2015 styleguide, the path to Angular 2](https://toddmotto.com/rewriting-angular-styleguide-angular-2)
 1. [Mouse Events](http://www.angularjshub.com/examples/eventhandlers/mouseevents/)
+1. [AngularJS Dropdown Multiselect](http://dotansimha.github.io/angularjs-dropdown-multiselect/#/)

@@ -357,3 +357,4 @@
 1. [The Shocking Secret About Static Types](https://medium.com/javascript-scene/the-shocking-secret-about-static-types-514d39bf30a3#.2d72zsc8e)
 1. [The Current State Of Authentication: We Have A Password Problem](https://www.smashingmagazine.com/2016/06/the-current-state-of-authentication-we-have-a-password-problem/)
 1. [One does not simply learn to code](https://medium.freecodecamp.com/one-does-not-simply-learn-to-code-f25bacdc5b62#.5vuog8dp1)
+1. [What's TJ Holowaychuk's Stack These Days?](https://auth0.com/blog/2016/06/07/whats-tjs-stack-these-days/)

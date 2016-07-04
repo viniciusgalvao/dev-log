@@ -63,6 +63,7 @@
 1. [Setting Vim whitespace preferences by filetype](http://stackoverflow.com/a/1563552/2849745)
 1. [Modify Remote Files with VIM's Built in FTP Plugin](https://www.marksanborn.net/software/modify-remote-files-with-vims-built-in-ftp-plugin/)
 1. [Multiple windows](https://www.cs.oberlin.edu/~kuperman/help/vim/windows.html)
+1. [How to temporarily exit vim and go back](http://stackoverflow.com/questions/1879219/how-to-temporarily-exit-vim-and-go-back)
 
 ## Vim Plugins
 

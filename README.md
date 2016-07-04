@@ -8,6 +8,7 @@
 1. **[Appgyver](/source/appgyver.md)**
 1. **[Aurelia](/source/aurelia.md)**
 1. **[AWS](/source/aws.md)**
+1. **[Babel](/source/babel.md)**
 1. **[Back-end](/source/back-end.md)**
 1. **[Bash](/source/bash.md)**
 1. **[BDD](/source/bdd.md)**
