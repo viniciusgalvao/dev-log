@@ -60,3 +60,8 @@
 1. [Who is hiring](https://whoishiring.io)
 1. [Salary Negotiation: how not to set a bunch of money on fire](https://medium.freecodecamp.com/salary-negotiation-how-not-to-set-a-bunch-of-money-on-fire-605aabbaf84b#.udhpgbsoy)
 1. [A Ciência Por Trás do Dia de 6 Horas de Trabalho da Suécia](http://br.blog.trello.com/6-horas-de-trabalho-da-suecia/)
+1. [O que diabos aconteceu com a GERAÇÃO Y?!](https://medium.com/copy-hacks/o-que-diabos-aconteceu-com-gera%C3%A7%C3%A3o-y-73cd16ccc5c9#.u9g3dtkl2)
+1. [H1B Usa Salaries](http://h1bdata.info/index.php)
+1. [Getting a raise comes down to one thing: Leverage](https://medium.freecodecamp.com/youre-underpaid-here-s-how-you-can-get-the-pay-raise-you-deserve-fafcf52956d6#.eiwxc1lcq)
+1. [awesome-expat](https://github.com/marceloboeira/awesome-expat)
+1. [brazil-expats](https://github.com/brazil-expats)

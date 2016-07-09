@@ -163,3 +163,4 @@
 1. [Node Hero - Node.js Project Structure Tutorial](https://blog.risingstack.com/node-hero-node-js-project-structure-tutorial/)
 1. [Nodecasts](https://nodecasts.io/courses)
 1. [What does your web stack look like?](https://www.reddit.com/r/node/comments/4ig12u/what_does_your_web_stack_look_like/)
+1. [AFTER A YEAR OF USING NODEJS IN PRODUCTION](http://geekforbrains.com/post/after-a-year-of-nodejs-in-production)
