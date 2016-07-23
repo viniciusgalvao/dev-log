@@ -27,3 +27,5 @@
 1. [PayPal, You Got Me At ‘Isomorphic ReactJS’](http://dejanglozic.com/2015/07/06/paypal-you-got-me-at-isomorphic-reactjs/) 
 1. [Angular Directives Mapped to React](https://daveceddia.com/angular-directives-mapped-to-react/)
 1. [After React: Elm?](https://medium.com/@freemanlatif/after-react-elm-152bd6559cb1#.2pdh65z6q)
+1. [awesome-react](https://github.com/enaqx/awesome-react#example-apps)
+1. [react-howto](https://github.com/petehunt/react-howto)

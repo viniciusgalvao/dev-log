@@ -198,3 +198,4 @@
 1. [You (probably) don't need a JavaScript framework](https://slack-files.com/T03JT4FC2-F151AAF7A-13fe6f98da)
 1. [The Vanilla Javascript Repository](http://www.vanillalist.com/)
 1. [JSDelivr - CDN](https://www.jsdelivr.com/)
+1. [JS Hall of Fame](http://bestof.js.org/hof)

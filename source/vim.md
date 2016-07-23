@@ -64,6 +64,7 @@
 1. [Modify Remote Files with VIM's Built in FTP Plugin](https://www.marksanborn.net/software/modify-remote-files-with-vims-built-in-ftp-plugin/)
 1. [Multiple windows](https://www.cs.oberlin.edu/~kuperman/help/vim/windows.html)
 1. [How to temporarily exit vim and go back](http://stackoverflow.com/questions/1879219/how-to-temporarily-exit-vim-and-go-back)
+1. [How to use Vim netrw in ftp passive mode](http://alecthegeek.github.io/2007/02/06/handy-hack-how-to-use-vim-netrw-in-ftp-passive-mode.html)
 
 ## Vim Plugins
 

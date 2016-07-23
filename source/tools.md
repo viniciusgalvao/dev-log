@@ -46,3 +46,4 @@
 1. [How to Use BrowserSync for Faster Development](https://scotch.io/tutorials/how-to-use-browsersync-for-faster-development)
 1. [Introducing Surge - The CDN for Front-End Developers](https://medium.com/surge-sh/introducing-surge-the-cdn-for-front-end-developers-b4a50a61bcfc#.i4yy79gbo)
 1. [RealFaviconGenerator](http://realfavicongenerator.net/)
+1. [W3Counter - Browser & Platform Market Share](https://www.w3counter.com/globalstats.php)

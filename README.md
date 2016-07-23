@@ -73,7 +73,7 @@
 1. **[PostgreSQL](/source/postgresql.md)**
 1. **[Python](/source/python.md)**
 1. **[Ractive.js](/source/ractivejs.md)**
-1. **[React](/source/reactJS.md)**
+1. **[React](/source/react.md)**
 1. **[Redis](/source/redis.md)**
 1. **[RegExp](/source/regexp.md)**
 1. **[REST](/source/rest.md)**

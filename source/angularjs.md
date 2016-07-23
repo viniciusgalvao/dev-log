@@ -152,3 +152,4 @@
 1. [A new Angular 1.x ES2015 styleguide, the path to Angular 2](https://toddmotto.com/rewriting-angular-styleguide-angular-2)
 1. [Mouse Events](http://www.angularjshub.com/examples/eventhandlers/mouseevents/)
 1. [AngularJS Dropdown Multiselect](http://dotansimha.github.io/angularjs-dropdown-multiselect/#/)
+1. [Clear or stop timeInterval in angularjs](http://stackoverflow.com/questions/26447923/how-to-clear-or-stop-timeinterval-in-angularjs)
