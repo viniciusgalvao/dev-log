@@ -358,3 +358,5 @@
 1. [The Current State Of Authentication: We Have A Password Problem](https://www.smashingmagazine.com/2016/06/the-current-state-of-authentication-we-have-a-password-problem/)
 1. [One does not simply learn to code](https://medium.freecodecamp.com/one-does-not-simply-learn-to-code-f25bacdc5b62#.5vuog8dp1)
 1. [What's TJ Holowaychuk's Stack These Days?](https://auth0.com/blog/2016/06/07/whats-tjs-stack-these-days/)
+1. [How I landed my first Javascript Development Job and got 6 figures for it](http://blog.ilovecoding.org/6-figure-developer-job/)
+1. [Salary transparency at Stack Overflow](http://blog.stackoverflow.com/2016/07/salary-transparency)

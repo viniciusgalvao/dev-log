@@ -9,3 +9,7 @@
 1. [Find available versions for a bower dependency](http://stackoverflow.com/questions/21242143/how-to-find-available-versions-for-a-bower-dependency)
 1. [The State of Front-End Tooling – 2015](http://ashleynolan.co.uk/blog/frontend-tooling-survey-2015-results)
 1. [Frontend Handbook](http://www.frontendhandbook.com/)
+1. [Frontend Driven Apps](http://codylindley.com/web-unleashed/#)
+1. [frontend-guidelines](https://github.com/bendc/frontend-guidelines)
+1. [front-end-curriculum](https://gist.github.com/stevekinney/03027e71aac341af14a2)
+1. [FRONT END ENGINEER'S MANIFESTO](http://f2em.com/)

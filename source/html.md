@@ -28,3 +28,4 @@
 1. [HTML Character Entity Reference](http://dev.w3.org/html5/html-author/charref)
 1. [HTML reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference)
 1. [A list of everything that could go in the <head> of your document](https://github.com/joshbuchea/HEAD)
+1. [Removing whitespace between HTML elements when using line breaks](http://stackoverflow.com/a/1097063/2849745)
