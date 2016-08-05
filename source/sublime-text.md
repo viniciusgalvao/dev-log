@@ -16,3 +16,4 @@
 1. [spacegray - theme](https://github.com/kkga/spacegray)
 1. [Comment-Snippets](https://sublime.wbond.net/packages/Comment-Snippets)
 1. [PlainTasks](https://github.com/aziz/PlainTasks)
+1. [ColorPicker](https://github.com/weslly/ColorPicker)

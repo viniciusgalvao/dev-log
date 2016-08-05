@@ -154,3 +154,8 @@
 1. [AngularJS Dropdown Multiselect](http://dotansimha.github.io/angularjs-dropdown-multiselect/#/)
 1. [Clear or stop timeInterval in angularjs](http://stackoverflow.com/questions/26447923/how-to-clear-or-stop-timeinterval-in-angularjs)
 1. [Multiple filter with custom filter function](http://stackoverflow.com/questions/18792039/angularjs-multiple-filter-with-custom-filter-function)
+
+## Performance
+
+1. [Running an AngularJS App in Production](https://docs.angularjs.org/guide/production)
+1. [AngularJS one-time binding syntax](https://toddmotto.com/angular-one-time-binding-syntax/)

@@ -32,3 +32,4 @@
 1. [Installing Photoshop CS6 on Ubuntu 14.04](http://www.bendangelo.me/install/2014/10/29/installing-photoshop-cs6-on-ubuntu.html)
 1. [SimpleScreenRecorder](http://www.maartenbaert.be/simplescreenrecorder/)
 1. [Control brightness on second monitor](http://askubuntu.com/a/397109)
+1. [How to Quickly Convert Audio Files with Gnac](https://www.maketecheasier.com/quickly-convert-audio-files-with-gnac/)
