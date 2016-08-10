@@ -13,3 +13,4 @@
 1. [frontend-guidelines](https://github.com/bendc/frontend-guidelines)
 1. [front-end-curriculum](https://gist.github.com/stevekinney/03027e71aac341af14a2)
 1. [FRONT END ENGINEER'S MANIFESTO](http://f2em.com/)
+1. [Front-end Resources](https://gist.github.com/ericdouglas/050f4fec301ebf6bf005a10bd183e68b)

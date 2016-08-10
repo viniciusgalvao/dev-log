@@ -20,6 +20,7 @@
 1. **[CI](/source/ci.md)**
 1. **[Cordova](/source/cordova.md)**
 1. **[CSS](/source/css.md)**
+1. **[Deliberate Practice](/source/deliberate-practice.md)**
 1. **[DevOps](/source/devops.md)**
 1. **[Docker](/source/docker.md)**
 1. **[Docs](/source/docs.md)**

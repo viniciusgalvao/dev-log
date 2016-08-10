@@ -360,3 +360,5 @@
 1. [What's TJ Holowaychuk's Stack These Days?](https://auth0.com/blog/2016/06/07/whats-tjs-stack-these-days/)
 1. [How I landed my first Javascript Development Job and got 6 figures for it](http://blog.ilovecoding.org/6-figure-developer-job/)
 1. [Salary transparency at Stack Overflow](http://blog.stackoverflow.com/2016/07/salary-transparency)
+1. [moment().endOf(‘term’)](https://medium.com/@timrwood/moment-endof-term-522d8965689#.umwxzju8q)
+1. [How to learn web frameworks](https://medium.com/shopify-ux/how-to-learn-web-frameworks-9d447cb71e68#.k81icsgyg)
