@@ -14,6 +14,7 @@
 1. [Emmet](http://emmet.io/blog/sublime-text-3/)
 1. [Vintageous](https://github.com/guillermooo/Vintageous)
 1. [spacegray - theme](https://github.com/kkga/spacegray)
+1. [Material Theme](https://github.com/equinusocio/material-theme)
 1. [Comment-Snippets](https://sublime.wbond.net/packages/Comment-Snippets)
 1. [PlainTasks](https://github.com/aziz/PlainTasks)
 1. [ColorPicker](https://github.com/weslly/ColorPicker)
