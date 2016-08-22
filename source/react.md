@@ -30,3 +30,8 @@
 1. [After React: Elm?](https://medium.com/@freemanlatif/after-react-elm-152bd6559cb1#.2pdh65z6q)
 1. [awesome-react](https://github.com/enaqx/awesome-react#example-apps)
 1. [react-howto](https://github.com/petehunt/react-howto)
+1. [You’re Missing the Point of React](https://medium.com/@dan_abramov/youre-missing-the-point-of-react-a20e34a51e1a#.qgt6xupid)
+1. [What is React?](https://remysharp.com/2016/08/15/what-is-react)
+1. [React for designers](https://medium.com/@fredjens/react-for-designers-3fbc7b6560dd#.ncnc8zb6o)
+1. [The Secrets of React's Virtual DOM](https://www.youtube.com/watch?v=-DX3vJiqxm4)
+1. [Introducing React Native Ubuntu](https://developer.ubuntu.com/en/blog/2016/08/05/introducing-react-native-ubuntu)

@@ -200,3 +200,4 @@
 1. [JSDelivr - CDN](https://www.jsdelivr.com/)
 1. [JS Hall of Fame](http://bestof.js.org/hof)
 1. [Profiling in the wild](https://www.youtube.com/watch?v=OLWEyH7_4e0)
+1. [The rise of functional programming & the decline of Angular 2.0](http://blog.wolksoftware.com/the-rise-of-functional-programming-and-the-death-of-angularjs)

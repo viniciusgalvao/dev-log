@@ -49,3 +49,5 @@
 1. [W3Counter - Browser & Platform Market Share](https://www.w3counter.com/globalstats.php)
 1. [Chrome Dev Tools - Google Developers](https://developers.google.com/web/tools/chrome-devtools/?hl=en)
 1. [tmate](https://tmate.io/)
+1. [ASCIIFlow Infinity](http://asciiflow.com/)
+1. [Text to ASCII Art Generator](http://patorjk.com/software/taag/#p=display&f=Slant%20Relief&t=AWESOME)

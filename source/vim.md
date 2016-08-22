@@ -83,6 +83,7 @@
 1. [NERDTree](https://github.com/scrooloose/nerdtree)
 1. [vim-easy-align](https://github.com/junegunn/vim-easy-align)
 1. [vim-airline](https://github.com/bling/vim-airline)
+1. [vim-airline-themes](https://github.com/vim-airline/vim-airline-themes)
 1. [jellybeans.vim](https://github.com/nanotech/jellybeans.vim)
 1. [vim-multiple-cursors](https://github.com/terryma/vim-multiple-cursors)
 1. [ultisnips](https://github.com/SirVer/ultisnips)
@@ -101,3 +102,4 @@
 1. [Install vim-gnome to copy to clipboard](http://vim.wikia.com/wiki/Accessing_the_system_clipboard)
 1. [vim-jsbeautify](https://github.com/maksimr/vim-jsbeautify)
 1. [vim-gitgutter](https://github.com/airblade/vim-gitgutter)
+

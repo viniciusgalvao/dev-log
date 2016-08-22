@@ -18,3 +18,4 @@
 1. [Comment-Snippets](https://sublime.wbond.net/packages/Comment-Snippets)
 1. [PlainTasks](https://github.com/aziz/PlainTasks)
 1. [ColorPicker](https://github.com/weslly/ColorPicker)
+1. [SideBarEnhancements](https://github.com/titoBouzout/SideBarEnhancements/tree/st3)
