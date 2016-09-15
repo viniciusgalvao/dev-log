@@ -154,8 +154,11 @@
 1. [AngularJS Dropdown Multiselect](http://dotansimha.github.io/angularjs-dropdown-multiselect/#/)
 1. [Clear or stop timeInterval in angularjs](http://stackoverflow.com/questions/26447923/how-to-clear-or-stop-timeinterval-in-angularjs)
 1. [Multiple filter with custom filter function](http://stackoverflow.com/questions/18792039/angularjs-multiple-filter-with-custom-filter-function)
-
-## Performance
-
+1. [Render String as HTML that contains ng-click inside of it](http://stackoverflow.com/a/17426614/2849745)
+1. [User $window.localStorage to store data in the browser](http://stackoverflow.com/a/37049895/2849745)
 1. [Running an AngularJS App in Production](https://docs.angularjs.org/guide/production)
 1. [AngularJS one-time binding syntax](https://toddmotto.com/angular-one-time-binding-syntax/)
+1. [How I tackled directive’s LifeCycle in AngularJS](http://filimanjaro.com/2014/angular-directive-lifecycle-vs-link-compile-controller/)
+1. [Angular.js directives – Difference between controller and link](http://jasonmore.net/angular-js-directives-difference-controller-link/)
+1. [$rootScope in directive link function](http://stackoverflow.com/questions/21736824/angularjs-rootscope-in-directive-link-function#comment40836633_23906498)
+

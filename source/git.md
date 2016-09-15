@@ -49,3 +49,4 @@
 1. [Show remote origin](http://dropshado.ws/post/4964571254/git-remote-show-origin)
 1. [List remote branches](http://gitready.com/intermediate/2009/02/13/list-remote-branches.html)
 1. [See what's in a stash without applying stash](http://stackoverflow.com/questions/10725729/git-see-whats-in-a-stash-without-applying-stash)
+1. [Git How To](https://githowto.com/)

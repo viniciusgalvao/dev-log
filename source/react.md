@@ -35,3 +35,4 @@
 1. [React for designers](https://medium.com/@fredjens/react-for-designers-3fbc7b6560dd#.ncnc8zb6o)
 1. [The Secrets of React's Virtual DOM](https://www.youtube.com/watch?v=-DX3vJiqxm4)
 1. [Introducing React Native Ubuntu](https://developer.ubuntu.com/en/blog/2016/08/05/introducing-react-native-ubuntu)
+1. [React Lifecycle - Parent Child](https://gist.github.com/fay-jai/fc8a5093c0b5124d4b2d#file-react-lifecycle-parent-child-jsx)
