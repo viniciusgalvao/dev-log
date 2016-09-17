@@ -51,3 +51,4 @@
 1. [tmate](https://tmate.io/)
 1. [ASCIIFlow Infinity](http://asciiflow.com/)
 1. [Text to ASCII Art Generator](http://patorjk.com/software/taag/#p=display&f=Slant%20Relief&t=AWESOME)
+1. [Assets - Extract PSD online](https://assets.adobe.com/link/b8ecd6b6-94ac-468c-9cfa-b2c666c81a6c?section=extract)

@@ -11,3 +11,6 @@
 1. [angular2-education](https://github.com/timjacobi/angular2-education)
 1. [Angular 2 Survey](http://angularjs.blogspot.com.br/2015/09/angular-2-survey-results.html)
 1. [Angular 2 Migration Path: What We Know](http://www.codelord.net/2015/09/10/angular-2-migration-path-what-we-know/)
+1. [Angular 2.0.0 officially released /r/programming](https://www.reddit.com/r/programming/comments/52ubz5/angular_200_officially_released/)
+1. [Angular 2 Final Released HN](https://news.ycombinator.com/item?id=12502947)
+1. [Angular 2 Final Released /r/javascript](https://www.reddit.com/r/javascript/comments/52u9a4/angular_2_final_released/)

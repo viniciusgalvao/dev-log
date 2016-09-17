@@ -8,3 +8,4 @@
 1. [Web Development Career advice](https://www.youtube.com/watch?v=pB0WvcxTbCA)
 1. [Welcome to Future of Web Application Delivery](https://medium.com/@ryanflorence/welcome-to-future-of-web-application-delivery-9750b7564d9f#.fsof1lvja)
 1. [Web Fundamentals](https://developers.google.com/web/fundamentals/?hl=en)
+1. [Full Stack JavaScript: Starter Guide](http://www.fullstackjs.com/book/)
