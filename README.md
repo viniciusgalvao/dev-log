@@ -15,6 +15,7 @@
 1. **[Bodybuilding](/source/bodybuilding.md)**
 1. **[Bower](/source/bower.md)**
 1. **[Browserify](/source/browserify.md)**
+1. **[Browser Storage](/source/browser-storage.md)**
 1. **[Chai](/source/chai.md)**
 1. **[Challenges](/source/challenges.md)**
 1. **[CI](/source/ci.md)**

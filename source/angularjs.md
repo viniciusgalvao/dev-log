@@ -161,4 +161,4 @@
 1. [How I tackled directive’s LifeCycle in AngularJS](http://filimanjaro.com/2014/angular-directive-lifecycle-vs-link-compile-controller/)
 1. [Angular.js directives – Difference between controller and link](http://jasonmore.net/angular-js-directives-difference-controller-link/)
 1. [$rootScope in directive link function](http://stackoverflow.com/questions/21736824/angularjs-rootscope-in-directive-link-function#comment40836633_23906498)
-
+1. [Improving ng-repeat Performance with “track by”](http://www.codelord.net/2014/04/15/improving-ng-repeat-performance-with-track-by/)
