@@ -44,3 +44,5 @@
 1. [Modern Clean CSS “Sticky Footer”](http://mystrd.at/modern-clean-css-sticky-footer/)
 1. [idiomatic-css](https://github.com/necolas/idiomatic-css)
 1. [Commenting CSS](http://wilsonpage.co.uk/commenting-css/)
+1. [Block, Element, Modifying Your JavaScript Components](https://medium.com/seek-ui-engineering/block-element-modifying-your-javascript-components-d7f99fcab52b#.b19f941hi)
+1. [Why CSS is hard](https://medium.com/any-stack-any-language-anywhere/why-css-is-hard-89f3b221dd4d#.n1m5p270n)

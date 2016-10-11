@@ -12,3 +12,4 @@
 1. [How to be Successful - Steve Vai](https://www.youtube.com/watch?v=atGBKuCJ-Jc)
 1. [Nobody Tells This To Beginners](https://www.youtube.com/watch?v=D_gSFWt6ito)
 1. [TODO MUNDO MORRE, MAS NEM TODO MUNDO VIVE](https://www.youtube.com/watch?v=cHCslW83vos&feature=youtu.be)
+1. [Precisamos falar sobre Whinderson Nunes](https://medium.com/@akaPoeta/precisamos-falar-sobre-whindersson-nunes-a2f2b0fe8fa5#.bcuog4h36)

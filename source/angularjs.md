@@ -162,3 +162,5 @@
 1. [Angular.js directives – Difference between controller and link](http://jasonmore.net/angular-js-directives-difference-controller-link/)
 1. [$rootScope in directive link function](http://stackoverflow.com/questions/21736824/angularjs-rootscope-in-directive-link-function#comment40836633_23906498)
 1. [Improving ng-repeat Performance with “track by”](http://www.codelord.net/2014/04/15/improving-ng-repeat-performance-with-track-by/)
+1. [Speeding up AngularJS apps with simple optimizations](https://www.binpress.com/tutorial/speeding-up-angular-js-with-simple-optimizations/135)
+1. [How to debug your AngularJS applications](https://www.youtube.com/watch?v=9pFG6EAkJD4)

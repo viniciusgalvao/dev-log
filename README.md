@@ -78,12 +78,14 @@
 1. **[Ractive.js](/source/ractivejs.md)**
 1. **[React](/source/react.md)**
 1. **[Redis](/source/redis.md)**
+1. **[Redux](/source/redux.md)**
 1. **[RegExp](/source/regexp.md)**
 1. **[REST](/source/rest.md)**
 1. **[Responsive Web Design](/source/rwd.md)**
 1. **[Self Improvement](/source/self-improvement.md)**
 1. **[SEO](/source/seo.md)**
 1. **[ShellScript](/source/shell-script.md)**
+1. **[Serverless](/source/serverless.md)**
 1. **[Social Media](/source/social-media.md)**
 1. **[Software Craftsmanship](/source/software-craftsmanship.md)**
 1. **[Software Engineering](/source/software-engineering.md)**

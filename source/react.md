@@ -36,3 +36,7 @@
 1. [The Secrets of React's Virtual DOM](https://www.youtube.com/watch?v=-DX3vJiqxm4)
 1. [Introducing React Native Ubuntu](https://developer.ubuntu.com/en/blog/2016/08/05/introducing-react-native-ubuntu)
 1. [React Lifecycle - Parent Child](https://gist.github.com/fay-jai/fc8a5093c0b5124d4b2d#file-react-lifecycle-parent-child-jsx)
+1. [Material Design components for React](https://hbm.github.io/md-components/#/?_k=r3znlz)
+1. [React Bootstrap](https://react-bootstrap.github.io/)
+1. [React ES6 Classes](https://facebook.github.io/react/docs/reusable-components.html#es6-classes)
+1. [React and ES6 - Part 3, Binding to methods of React class (ES7 included)](http://egorsmirnov.me/2015/08/16/react-and-es6-part3.html)

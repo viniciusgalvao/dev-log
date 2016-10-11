@@ -7,6 +7,7 @@
 1. [How to get scss and Less files to have color?](http://stackoverflow.com/a/29666299/2849745)
 1. [Search in all files in a project in Sublime Text 3](http://stackoverflow.com/questions/20519040/search-in-all-files-in-a-project-in-sublime-text-3)
 1. [Change tabs to spaces](https://css-tricks.com/changing-spaces-tabs-sublime-text/)
+1. [Hide and unhide the project folder tree in sublime-text](http://stackoverflow.com/questions/11833395/how-can-i-hide-and-unhide-the-project-folder-tree-in-sublime-text)
 
 ## Sublime Puglins
 
@@ -19,3 +20,4 @@
 1. [PlainTasks](https://github.com/aziz/PlainTasks)
 1. [ColorPicker](https://github.com/weslly/ColorPicker)
 1. [SideBarEnhancements](https://github.com/titoBouzout/SideBarEnhancements/tree/st3)
+
