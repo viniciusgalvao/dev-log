@@ -164,3 +164,4 @@
 1. [Improving ng-repeat Performance with “track by”](http://www.codelord.net/2014/04/15/improving-ng-repeat-performance-with-track-by/)
 1. [Speeding up AngularJS apps with simple optimizations](https://www.binpress.com/tutorial/speeding-up-angular-js-with-simple-optimizations/135)
 1. [How to debug your AngularJS applications](https://www.youtube.com/watch?v=9pFG6EAkJD4)
+1. [Accessing DOM elements inside directive template](http://stackoverflow.com/a/15882044/2849745)

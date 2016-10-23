@@ -28,6 +28,7 @@
 1. **[ES6](/source/ecmascript6.md)**
 1. **[Elasticsearch](/source/elasticsearch.md)**
 1. **[ElementaryOS](/source/elementary-os.md)**
+1. **[Elm](/source/elm.md)**
 1. **[Ember.js](/source/ember.md)**
 1. **[English](/source/english.md)**
 1. **[Events](/source/events.md)**
@@ -99,6 +100,7 @@
 1. **[UNIX](/source/unix.md)**
 1. **[UX/UI](/source/ux-ui.md)**
 1. **[Vim](/source/vim.md)**
+1. **[Vue](/source/vue.md)**
 1. **[WebAssembly](/source/webassembly.md)**
 1. **[Web Components](/source/web-components.md)**
 1. **[Web Design](/source/web-design.md)**
