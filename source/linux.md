@@ -35,3 +35,4 @@
 1. [How to Quickly Convert Audio Files with Gnac](https://www.maketecheasier.com/quickly-convert-audio-files-with-gnac/)
 1. [Audio format conversion cheat sheet](http://stefaanlippens.net/audio_conversion_cheat_sheet)
 1. [How To Use ps, kill, and nice to Manage Processes in Linux](https://www.digitalocean.com/community/tutorials/how-to-use-ps-kill-and-nice-to-manage-processes-in-linux)
+1. [Trouble downloading packages - sudo apt-get update](http://askubuntu.com/questions/41605/trouble-downloading-packages-list-due-to-a-hash-sum-mismatch-error#comment1010258_626961)
