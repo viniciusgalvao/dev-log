@@ -185,7 +185,7 @@
 1. [gulp + ES6= ❤](https://medium.com/@dleitee/gulp-es2015-b2070a723367)
 1. [Check if a key is down](http://stackoverflow.com/questions/1828613/check-if-a-key-is-down)
 1. [ES6 Modules in Depth](http://ponyfoo.com/articles/es6-modules-in-depth)
-1. [.jshintrc example](https://github.com/jshint/jshint/blob/master/examples/.jshintrc) 
+1. [.jshintrc example](https://github.com/jshint/jshint/blob/master/examples/.jshintrc)
 1. [Factory Functions in JavaScript](https://www.youtube.com/watch?v=ImwrezYhw4w)
 1. [Composition over Inheritance](https://www.youtube.com/watch?v=wfMtDGfHWpA)
 1. [Composition over Inheritance (what it is, why use it)](http://www.marcotroisi.com/composition-over-inheritance/)
@@ -204,3 +204,4 @@
 1. [`console.time('label')` and `console.timeEnd('label')`](https://developer.mozilla.org/en-US/docs/Web/API/Console/time)
 1. [How JavaScript Event Delegation Works](https://davidwalsh.name/event-delegate)
 1. [Yarn: A new package manager for JavaScript](https://code.facebook.com/posts/1840075619545360)
+1. [The future of ES6 (Jafar Husain) - Full Stack Fest 2016](https://www.youtube.com/watch?v=3pKNRgResq0&ct=t(BrazilJS_Weekly_468_9_2013))
