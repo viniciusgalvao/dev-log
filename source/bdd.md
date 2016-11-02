@@ -4,4 +4,4 @@
 1. [BehaviourDrivenDevelopment]()
 1. [#DevCast - Ao BDD e Além! Teste com JavaScript](https://www.youtube.com/watch?v=jXBnhl33lws)
 1. [Introdução ao BDD](http://www.bluesoft.com.br/bdd-behavior-driven-development/)
-1. []()
+1. [Testing from the Outside-In](https://robots.thoughtbot.com/testing-from-the-outsidein)
