@@ -4,6 +4,10 @@
 1. [Configure vim-mode package](https://github.com/atom/vim-mode/issues/334)
 1. [Atom Flight Manual](http://flight-manual.atom.io/)
 1. [Atom Keyboard Shortcuts](https://github.com/nwinkler/atom-keyboard-shortcuts)
+1. [Multiple Selections](https://discuss.atom.io/t/multiple-selections/755)
+1. [Enable tab completion for JSX with Emmet in Atom](https://gist.github.com/mxstbr/361ddb22057f0a01762240be209321f0)
+1. [Turn on Line Wrap](https://discuss.atom.io/t/turn-on-line-wrap/1627/4)
+1. [Scroll past the bottom of the document](https://discuss.atom.io/t/scroll-past-the-bottom-of-the-document/3183/13)
 
 ## Plugins
 1. [vim-mode](https://github.com/atom/vim-mode)
@@ -35,3 +39,6 @@
 1. [merge-conflicts](https://atom.io/packages/merge-conflicts)
 1. [color-picker](https://atom.io/packages/color-picker)
 1. [file-icons](https://atom.io/packages/file-icons)
+1. [autocomplete-paths](https://atom.io/packages/autocomplete-paths)
+1. [language-elm](https://atom.io/packages/language-elm)
+1. [elm-format](https://atom.io/packages/elm-format)
