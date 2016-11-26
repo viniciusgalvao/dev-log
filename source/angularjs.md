@@ -165,3 +165,4 @@
 1. [Speeding up AngularJS apps with simple optimizations](https://www.binpress.com/tutorial/speeding-up-angular-js-with-simple-optimizations/135)
 1. [How to debug your AngularJS applications](https://www.youtube.com/watch?v=9pFG6EAkJD4)
 1. [Accessing DOM elements inside directive template](http://stackoverflow.com/a/15882044/2849745)
+1. [AngularJS And Browserify — The Dream Team For Single Page Applications](https://blog.codecentric.de/en/2014/08/angularjs-browserify/)

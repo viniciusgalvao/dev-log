@@ -49,3 +49,4 @@
 1. [awesome-expat](https://github.com/marceloboeira/awesome-expat)
 1. [brazil-expats](https://github.com/brazil-expats)
 1. [Trabalhar no exterior](https://github.com/frontendbr/forum/issues/56)
+1. [UpScored](https://upscored.com)

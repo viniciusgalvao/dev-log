@@ -371,3 +371,4 @@
 1. [Rails has won: The Elephant in the Room](http://www.akitaonrails.com/2016/05/23/rails-has-won-the-elephant-in-the-room)
 1. [I hack time](https://medium.freecodecamp.com/i-hack-time-6d3a32193c9#.650hssqsh)
 1. [Fullstack Developer is an Outdated Term](http://blog.honeypot.io/fullstack-developer/)
+1. [The Software Alchemist](https://medium.com/@MrAlanCooper/the-software-alchemist-ed59d71e89df#.3a390l405)

@@ -30,6 +30,7 @@
 1. **[Elasticsearch](/source/elasticsearch.md)**
 1. **[ElementaryOS](/source/elementary-os.md)**
 1. **[Elm](/source/elm.md)**
+1. **[Elixir](/source/elixir.md)**
 1. **[Ember.js](/source/ember.md)**
 1. **[English](/source/english.md)**
 1. **[Events](/source/events.md)**

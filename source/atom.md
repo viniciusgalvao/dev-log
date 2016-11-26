@@ -19,10 +19,9 @@
 1. [docblockr](https://atom.io/packages/docblockr)
 1. [editorconfig](https://atom.io/packages/editorconfig)
 1. [language-babel](https://atom.io/packages/language-babel)
+1. [language-elixir](https://atom.io/packages/language-elixir)
 1. [linter-eslint](https://atom.io/packages/linter-eslint)
 1. [linter-csslint](https://atom.io/packages/linter-csslint)
-1. [linter-sass-lint](https://atom.io/packages/linter-sass-lint)
-1. [linter-flow](https://atom.io/packages/linter-flow)
 1. [open-recent](https://atom.io/packages/open-recent)
 1. [term3](https://atom.io/packages/term3)
 1. [todo-show](https://atom.io/packages/todo-show)
@@ -42,3 +41,4 @@
 1. [autocomplete-paths](https://atom.io/packages/autocomplete-paths)
 1. [language-elm](https://atom.io/packages/language-elm)
 1. [elm-format](https://atom.io/packages/elm-format)
+

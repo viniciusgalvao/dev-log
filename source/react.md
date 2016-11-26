@@ -46,3 +46,4 @@
 1. [React Router v4 with Michael Jackson and Ryan Florence - Modern Web](https://www.youtube.com/watch?v=Vur2dAFZ4GE&feature=youtu.be)
 1. [Dividing React Work Between Designers and Developers](https://daveceddia.com/dividing-react-work-between-designers-developers/?utm_campaign=1005dividing)
 1. [React Stateless Functional Components: Nine Wins You Might Have Overlooked](https://medium.com/@housecor/react-stateless-functional-components-nine-wins-you-might-have-overlooked-997b0d933dbc#.o06g0uip2)
+1. [Introducing Electrode, an open source release from @WalmartLabs](https://medium.com/walmartlabs/introducing-electrode-an-open-source-release-from-walmartlabs-14b836135319#.9v08ml5v3)
