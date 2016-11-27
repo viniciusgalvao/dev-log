@@ -9,15 +9,29 @@
 1. [Change tabs to spaces](https://css-tricks.com/changing-spaces-tabs-sublime-text/)
 1. [Hide and unhide the project folder tree in sublime-text](http://stackoverflow.com/questions/11833395/how-can-i-hide-and-unhide-the-project-folder-tree-in-sublime-text)
 
-## Sublime Puglins
+## Sublime Themes
+1. [Material Theme](https://github.com/equinusocio/material-theme)
 
+## Sublime Puglins
+1. [Sublime Text tips](https://gist.github.com/ericdouglas/e190d3865087bd05fa36ebfb73d2cdcb)
 1. [Package Control](https://packagecontrol.io/)
 1. [Emmet](http://emmet.io/blog/sublime-text-3/)
 1. [Vintageous](https://github.com/guillermooo/Vintageous)
-1. [spacegray - theme](https://github.com/kkga/spacegray)
-1. [Material Theme](https://github.com/equinusocio/material-theme)
 1. [Comment-Snippets](https://sublime.wbond.net/packages/Comment-Snippets)
 1. [PlainTasks](https://github.com/aziz/PlainTasks)
 1. [ColorPicker](https://github.com/weslly/ColorPicker)
 1. [SideBarEnhancements](https://github.com/titoBouzout/SideBarEnhancements/tree/st3)
-
+1. [EditorConfig](https://packagecontrol.io/packages/EditorConfig)
+1. [Sublime Linter](https://packagecontrol.io/packages/SublimeLinter)
+1. [Sublime​Linter-contrib-eslint](https://packagecontrol.io/packages/SublimeLinter-contrib-eslint)
+1. [Babel](https://packagecontrol.io/packages/Babel)
+1. [Bracket​Highlighter](https://packagecontrol.io/packages/BracketHighlighter)
+1. [Color Highlighter](https://packagecontrol.io/packages/Color%20Highlighter)
+1. [SublimeCodeIntel](https://packagecontrol.io/packages/SublimeCodeIntel)
+1. [Git](https://packagecontrol.io/packages/Git)
+1. [Advanced​New​File](https://packagecontrol.io/packages/AdvancedNewFile)
+1. [HTML-CSS-JS Prettify](https://packagecontrol.io/packages/HTML-CSS-JS%20Prettify)
+1. [Doc​Blockr](https://packagecontrol.io/packages/DocBlockr)
+1. [Elixir](https://packagecontrol.io/packages/Elixir)
+1. [Elixir​Sublime](https://packagecontrol.io/packages/ElixirSublime)
+1. [Sublime​Linter-contrib-elixirc](https://packagecontrol.io/packages/SublimeLinter-contrib-elixirc)
