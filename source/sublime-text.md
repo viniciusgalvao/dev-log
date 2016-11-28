@@ -35,3 +35,6 @@
 1. [Elixir](https://packagecontrol.io/packages/Elixir)
 1. [Elixir​Sublime](https://packagecontrol.io/packages/ElixirSublime)
 1. [Sublime​Linter-contrib-elixirc](https://packagecontrol.io/packages/SublimeLinter-contrib-elixirc)
+1. [FileSystem Autocompletion](https://packagecontrol.io/packages/FileSystem%20Autocompletion)
+1. [VAlign](https://packagecontrol.io/packages/VAlign)
+1. [zz File Icons](https://packagecontrol.io/packages/zz%20File%20Icons)
