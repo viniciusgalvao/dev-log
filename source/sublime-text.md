@@ -38,3 +38,4 @@
 1. [FileSystem Autocompletion](https://packagecontrol.io/packages/FileSystem%20Autocompletion)
 1. [VAlign](https://packagecontrol.io/packages/VAlign)
 1. [zz File Icons](https://packagecontrol.io/packages/zz%20File%20Icons)
+1. [FuzzyFilePath](https://packagecontrol.io/packages/FuzzyFilePath)

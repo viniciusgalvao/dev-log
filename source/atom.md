@@ -9,7 +9,13 @@
 1. [Turn on Line Wrap](https://discuss.atom.io/t/turn-on-line-wrap/1627/4)
 1. [Scroll past the bottom of the document](https://discuss.atom.io/t/scroll-past-the-bottom-of-the-document/3183/13)
 
+## Themes
+1. [material-palenight-syntax](https://atom.io/themes/material-palenight-syntax)
+1. [monokai](https://atom.io/themes/monokai)
+1. [ramda-syntax](https://atom.io/themes/ramda-syntax)
+
 ## Plugins
+1. [Atom tips](https://gist.github.com/ericdouglas/6860b55534b817a786c4c9776ddaec2a)
 1. [vim-mode](https://github.com/atom/vim-mode)
 1. [atom-beautify](https://atom.io/packages/atom-beautify)
 1. [atom-ternjs](https://atom.io/packages/atom-ternjs)
@@ -41,4 +47,5 @@
 1. [autocomplete-paths](https://atom.io/packages/autocomplete-paths)
 1. [language-elm](https://atom.io/packages/language-elm)
 1. [elm-format](https://atom.io/packages/elm-format)
+1. [ask-stack](https://atom.io/packages/ask-stack)
 
