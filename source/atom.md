@@ -47,3 +47,4 @@
 1. [language-elm](https://atom.io/packages/language-elm)
 1. [elm-format](https://atom.io/packages/elm-format)
 1. [ask-stack](https://atom.io/packages/ask-stack)
+1. [advanced-open-file](https://atom.io/packages/advanced-open-file)
