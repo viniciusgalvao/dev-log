@@ -36,3 +36,4 @@
 1. [Audio format conversion cheat sheet](http://stefaanlippens.net/audio_conversion_cheat_sheet)
 1. [How To Use ps, kill, and nice to Manage Processes in Linux](https://www.digitalocean.com/community/tutorials/how-to-use-ps-kill-and-nice-to-manage-processes-in-linux)
 1. [Trouble downloading packages - sudo apt-get update](http://askubuntu.com/questions/41605/trouble-downloading-packages-list-due-to-a-hash-sum-mismatch-error#comment1010258_626961)
+1. [Howto Manually Install Oracle Java on Debian Linux](http://www.renanrocha.com/howto/manually/install/oracle/java/on/a/debian/linux/os/2016/10/23/howto_download_latest_java.html)

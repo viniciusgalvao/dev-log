@@ -46,5 +46,8 @@
 1. [autocomplete-paths](https://atom.io/packages/autocomplete-paths)
 1. [language-elm](https://atom.io/packages/language-elm)
 1. [elm-format](https://atom.io/packages/elm-format)
+1. [linter-elm-make](https://atom.io/packages/linter-elm-make)
 1. [ask-stack](https://atom.io/packages/ask-stack)
 1. [advanced-open-file](https://atom.io/packages/advanced-open-file)
+1. [aligner](https://atom.io/packages/aligner)
+1. [autocomplete-elixir](https://atom.io/packages/autocomplete-elixir)

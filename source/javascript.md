@@ -205,3 +205,4 @@
 1. [How JavaScript Event Delegation Works](https://davidwalsh.name/event-delegate)
 1. [Yarn: A new package manager for JavaScript](https://code.facebook.com/posts/1840075619545360)
 1. [The future of ES6 (Jafar Husain) - Full Stack Fest 2016](https://www.youtube.com/watch?v=3pKNRgResq0&ct=t(BrazilJS_Weekly_468_9_2013))
+1. [Frameworks without the framework: why didn't we think of this sooner?](https://svelte.technology/blog/frameworks-without-the-framework/)

@@ -1,6 +1,4 @@
-![developer log](http://i.imgur.com/YGbjYNy.png)
-
-**My logfile**
+![developer log](http://i.imgur.com/958KYRa.png)
 
 1. **[AngularJS](/source/angularjs.md)**
 1. **[Angular 2](/source/angular2.md)** 
