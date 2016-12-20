@@ -373,3 +373,4 @@
 1. [Fullstack Developer is an Outdated Term](http://blog.honeypot.io/fullstack-developer/)
 1. [The Software Alchemist](https://medium.com/@MrAlanCooper/the-software-alchemist-ed59d71e89df#.3a390l405)
 1. [Rubber duck debugging](https://en.wikipedia.org/wiki/Rubber_duck_debugging)
+1. [Why I Studied Full-Time for 8 Months for a Google Interview](https://googleyasheck.com/why-i-studied-full-time-for-8-months-for-a-google-interview/)

@@ -51,3 +51,5 @@
 1. [advanced-open-file](https://atom.io/packages/advanced-open-file)
 1. [aligner](https://atom.io/packages/aligner)
 1. [autocomplete-elixir](https://atom.io/packages/autocomplete-elixir)
+1. [linter-jsonlint](https://atom.io/packages/linter-jsonlint)
+1. [esformatter](https://atom.io/packages/esformatter)

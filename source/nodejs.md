@@ -165,3 +165,4 @@
 1. [What does your web stack look like?](https://www.reddit.com/r/node/comments/4ig12u/what_does_your_web_stack_look_like/)
 1. [AFTER A YEAR OF USING NODEJS IN PRODUCTION](http://geekforbrains.com/post/after-a-year-of-nodejs-in-production)
 1. [How Developers use Node.js - Survey Results](https://blog.risingstack.com/node-js-developer-survey-results-2016/)
+1. [How to get the npm global path prefix](http://stackoverflow.com/a/18383601/2849745)

@@ -48,3 +48,6 @@
 1. [Why CSS is hard](https://medium.com/any-stack-any-language-anywhere/why-css-is-hard-89f3b221dd4d#.n1m5p270n)
 1. [Pete Hunt - Component Based Style Reuse](https://www.youtube.com/watch?v=_70Yp8KPXH8)
 1. [Comprehensive guide when to use em vs rem](https://webdesign.tutsplus.com/tutorials/comprehensive-guide-when-to-use-em-vs-rem--cms-23984)
+1. [CSS Modules](https://github.com/css-modules/css-modules)
+1. [SUIT CSS naming conventions](https://github.com/suitcss/suit/blob/master/doc/naming-conventions.md)
+1. [CSS Modules Webpack Demo](https://github.com/css-modules/webpack-demo)

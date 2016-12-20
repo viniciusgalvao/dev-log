@@ -53,3 +53,5 @@
 1. [Text to ASCII Art Generator](http://patorjk.com/software/taag/#p=display&f=Slant%20Relief&t=AWESOME)
 1. [Assets - Extract PSD online](https://assets.adobe.com/link/b8ecd6b6-94ac-468c-9cfa-b2c666c81a6c?section=extract)
 1. [Yarn](https://yarnpkg.com/)
+1. [localtunnel](https://localtunnel.github.io/www/)
+1. [awesome-eslint](https://github.com/dustinspecker/awesome-eslint)

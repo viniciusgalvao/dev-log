@@ -48,3 +48,7 @@
 1. [React Stateless Functional Components: Nine Wins You Might Have Overlooked](https://medium.com/@housecor/react-stateless-functional-components-nine-wins-you-might-have-overlooked-997b0d933dbc#.o06g0uip2)
 1. [Introducing Electrode, an open source release from @WalmartLabs](https://medium.com/walmartlabs/introducing-electrode-an-open-source-release-from-walmartlabs-14b836135319#.9v08ml5v3)
 1. [Presentational and Container Components](https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0#.ekd72zswm)
+1. [Modern JS with React](http://andrewhfarmer.com/)
+1. [Build Your Own Starter](http://andrewhfarmer.com/build-your-own-starter/#0-intro)
+1. [11 lessons learned as a React contractor](https://medium.com/@jolyon_russ/11-lessons-learned-as-a-react-contractor-f515cd0491cf#.xpklmx9d5)
+1. [SOME PROBLEMS WITH REACT/REDUX](http://staltz.com/some-problems-with-react-redux.html)
