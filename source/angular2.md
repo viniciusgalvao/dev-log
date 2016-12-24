@@ -14,3 +14,4 @@
 1. [Angular 2.0.0 officially released /r/programming](https://www.reddit.com/r/programming/comments/52ubz5/angular_200_officially_released/)
 1. [Angular 2 Final Released HN](https://news.ycombinator.com/item?id=12502947)
 1. [Angular 2 Final Released /r/javascript](https://www.reddit.com/r/javascript/comments/52u9a4/angular_2_final_released/)
+1. [Ok... let me explain: it's going to be Angular 4.0, or just Angular](http://angularjs.blogspot.com.br/2016/12/ok-let-me-explain-its-going-to-be.html?m=1)

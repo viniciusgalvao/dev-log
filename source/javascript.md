@@ -206,3 +206,6 @@
 1. [Yarn: A new package manager for JavaScript](https://code.facebook.com/posts/1840075619545360)
 1. [The future of ES6 (Jafar Husain) - Full Stack Fest 2016](https://www.youtube.com/watch?v=3pKNRgResq0&ct=t(BrazilJS_Weekly_468_9_2013))
 1. [Frameworks without the framework: why didn't we think of this sooner?](https://svelte.technology/blog/frameworks-without-the-framework/)
+1. [Why I’m Thankful for JS Fatigue. I know you’re sick of those words, but this is different.](https://medium.com/javascript-scene/why-im-thankful-for-js-fatigue-i-know-you-re-sick-of-those-words-but-this-is-different-296fae0c888f#.d5drz17hr)
+1. [Should We Leave Javascript In Front End Programming?](http://lucasmreis.github.io/blog/should-we-leave-javascript-in-front-end-programming/)
+1. [A Study Plan To Cure JavaScript Fatigue](https://medium.freecodecamp.com/a-study-plan-to-cure-javascript-fatigue-8ad3a54f2eb1#.2cx5n966y)

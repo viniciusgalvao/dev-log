@@ -34,6 +34,7 @@
 1. **[Events](/source/events.md)**
 1. **[Firebase](/source/firebase.md)**
 1. **[Front-end](/source/front-end.md)**
+1. **[Flow](/source/flow.md)**
 1. **[Functional Programming](/source/functional-programming.md)**
 1. **[Git](/source/git.md)**
 1. **[GraphQL](/source/graphql.md)**
@@ -50,6 +51,7 @@
 1. **[Jade](/source/jade.md)**
 1. **[Jasmine](/source/jasmine.md)**
 1. **[JavaScript](/source/javascript.md)**
+1. **[Jest](/source/jest.md)**
 1. **[Jobs](/source/jobs.md)**
 1. **[JSON](/source/json.md)**
 1. **[Kanban](/source/kanban.md)**
@@ -71,6 +73,7 @@
 1. **[NoSQL](/source/nosql.md)**
 1. **[Open Source](/source/open-source.md)**
 1. **[OSX](/source/osx.md)**
+1. **[Phoenix](/source/phoenix.md)**
 1. **[Phonegap](/source/phonegap.md)**
 1. **[Podcasts](/source/podcasts.md)**
 1. **[PostCSS](/source/postcss.md)**

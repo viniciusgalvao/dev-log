@@ -10,3 +10,4 @@
 1. [How We Use GitHub Issues To Organize a Project](http://www.ianbicking.org/blog/2014/03/use-github-issues-to-organize-a-project.html
 1. [Basically, my first ever software engineer interview will be for a position at Google.](https://www.reddit.com/r/learnprogramming/comments/3nqlvg/interview_help_began_coding_3_years_ago_and/)
 1. [How Our Remote Engineering Team Stays Agile](https://www.helpscout.net/blog/agile-remote-teams/)
+1. [10 Lessons from 10 Years as a Software Engineer](http://thecodebarbarian.com/10-lessons-from-10-years-as-a-software-engineer.html)

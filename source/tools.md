@@ -55,3 +55,5 @@
 1. [Yarn](https://yarnpkg.com/)
 1. [localtunnel](https://localtunnel.github.io/www/)
 1. [awesome-eslint](https://github.com/dustinspecker/awesome-eslint)
+1. [Top 11 Programming Fonts for your Text Editor and Terminal](http://wesbos.com/programming-fonts/)
+1. [Stack on a budget](https://github.com/255kb/stack-on-a-budget/)

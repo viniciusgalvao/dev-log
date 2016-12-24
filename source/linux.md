@@ -38,3 +38,4 @@
 1. [Trouble downloading packages - sudo apt-get update](http://askubuntu.com/questions/41605/trouble-downloading-packages-list-due-to-a-hash-sum-mismatch-error#comment1010258_626961)
 1. [Howto Manually Install Oracle Java on Debian Linux](http://www.renanrocha.com/howto/manually/install/oracle/java/on/a/debian/linux/os/2016/10/23/howto_download_latest_java.html)
 1. [How to change LCD brightness from command line](http://askubuntu.com/questions/149054/how-to-change-lcd-brightness-from-command-line-or-via-script)
+1. [How to install the Monaco font](http://askubuntu.com/questions/333409/how-to-install-the-monaco-font)
