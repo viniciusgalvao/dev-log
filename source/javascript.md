@@ -210,3 +210,4 @@
 1. [Should We Leave Javascript In Front End Programming?](http://lucasmreis.github.io/blog/should-we-leave-javascript-in-front-end-programming/)
 1. [A Study Plan To Cure JavaScript Fatigue](https://medium.freecodecamp.com/a-study-plan-to-cure-javascript-fatigue-8ad3a54f2eb1#.2cx5n966y)
 1. [JavaScript Graphing Library Comparison](http://www.jsgraphs.com/)
+1. [Systematic Function Design in JavaScript](https://strongloop.com/strongblog/systematic-function-design-in-javascript/)

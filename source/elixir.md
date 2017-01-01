@@ -48,9 +48,6 @@
 1. [Elixir obsoletes Ruby, Erlang and Clojure in one go](https://medium.com/@qertoip/elixir-obsoletes-ruby-erlang-and-clojure-in-one-go-605329b7b9b4#.8oc1b5176)
 1. [Is Elixir as magical as it sounds?](https://medium.com/hitech-nudge-rewards/is-elixir-as-magical-as-it-sounds-8d49c717dcc9#.7rb11cw0r)
 1. [Elixir is not Ruby](https://zeroclarkthirty.com/2015-11-01-elixir-is-not-ruby.html)
-1. []()
-1. []()
-1. []()
-1. []()
-1. []()
+1. [My year with Elixir](http://zorbash.com/post/my-year-with-elixir/)
+1. [Why Elixir](http://theerlangelist.com/article/why_elixir)
 
