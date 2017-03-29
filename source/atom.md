@@ -8,8 +8,10 @@
 1. [Enable tab completion for JSX with Emmet in Atom](https://gist.github.com/mxstbr/361ddb22057f0a01762240be209321f0)
 1. [Turn on Line Wrap](https://discuss.atom.io/t/turn-on-line-wrap/1627/4)
 1. [Scroll past the bottom of the document](https://discuss.atom.io/t/scroll-past-the-bottom-of-the-document/3183/13)
+1. [Show git ignored files - press `i`](https://github.com/atom/atom/issues/3429#issuecomment-257750982)
 
 ## Themes
+1. [atom-material-syntax](https://github.com/atom-material/atom-material-syntax)
 1. [material-palenight-syntax](https://atom.io/themes/material-palenight-syntax)
 1. [ramda-syntax](https://atom.io/themes/ramda-syntax)
 

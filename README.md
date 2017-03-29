@@ -18,6 +18,8 @@
 1. **[Chai](/source/chai.md)**
 1. **[Challenges](/source/challenges.md)**
 1. **[CI](/source/ci.md)**
+1. **[C](/source/c.md)**
+1. **[Computer Science](/source/computer-science.md)**
 1. **[Cordova](/source/cordova.md)**
 1. **[CSS](/source/css.md)**
 1. **[Deliberate Practice](/source/deliberate-practice.md)**

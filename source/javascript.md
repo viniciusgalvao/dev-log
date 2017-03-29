@@ -211,3 +211,4 @@
 1. [A Study Plan To Cure JavaScript Fatigue](https://medium.freecodecamp.com/a-study-plan-to-cure-javascript-fatigue-8ad3a54f2eb1#.2cx5n966y)
 1. [JavaScript Graphing Library Comparison](http://www.jsgraphs.com/)
 1. [Systematic Function Design in JavaScript](https://strongloop.com/strongblog/systematic-function-design-in-javascript/)
+1. [You (probably) don't need a JavaScript framework](https://slack-files.com/T03JT4FC2-F151AAF7A-13fe6f98da)

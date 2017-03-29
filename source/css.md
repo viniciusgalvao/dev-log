@@ -51,3 +51,4 @@
 1. [CSS Modules](https://github.com/css-modules/css-modules)
 1. [SUIT CSS naming conventions](https://github.com/suitcss/suit/blob/master/doc/naming-conventions.md)
 1. [CSS Modules Webpack Demo](https://github.com/css-modules/webpack-demo)
+1. [How to add the text “ON” and “OFF” to toggle button](http://stackoverflow.com/questions/39846282/how-to-add-the-text-on-and-off-to-toggle-button)

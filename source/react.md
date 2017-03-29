@@ -55,3 +55,4 @@
 1. [Find your perfect React starter project](http://andrewhfarmer.com/starter-project/)
 1. [How To Scale React Applications](https://www.smashingmagazine.com/2016/09/how-to-scale-react-applications/)
 1. [JSX Looks Like An Abomination - But it’s Good for You](https://medium.com/javascript-scene/jsx-looks-like-an-abomination-1c1ec351a918#.m7a3z877w)
+1. [Isn’t our code just the *BEST*](https://medium.com/bumpers/isnt-our-code-just-the-best-f028a78f33a9#.y61si6wxn)

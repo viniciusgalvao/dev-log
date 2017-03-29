@@ -2,6 +2,7 @@
 
 1. [Angel.co](https://angel.co/jobs)
 1. [We Work Remotely](https://weworkremotely.com)
+1. [hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards)
 1. [Contratado.me](http://devs.contratado.me/)
 1. [RemoteOK](http://remoteok.io/)
 1. [Functional Jobs](https://functionaljobs.com/)
@@ -50,3 +51,4 @@
 1. [brazil-expats](https://github.com/brazil-expats)
 1. [Trabalhar no exterior](https://github.com/frontendbr/forum/issues/56)
 1. [UpScored](https://upscored.com)
+
