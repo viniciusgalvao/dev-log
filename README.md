@@ -81,6 +81,7 @@
 1. **[Podcasts](/source/podcasts.md)**
 1. **[PostCSS](/source/postcss.md)**
 1. **[PostgreSQL](/source/postgresql.md)**
+1. **[Progressive Web App](/source/progressive-web-app.md)**
 1. **[Python](/source/python.md)**
 1. **[Ractive.js](/source/ractivejs.md)**
 1. **[React](/source/react.md)**

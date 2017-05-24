@@ -70,6 +70,7 @@
 
 1. [vim-pathogen](https://github.com/tpope/vim-pathogen)
 1. [Unable to copy from vim to system clipboard](http://askubuntu.com/questions/347519/unable-to-copy-from-vim-to-system-clipboard)
+1. [vim-mode-plus](https://atom.io/packages/vim-mode-plus)
 1. [Vim-CtrlSpace](https://github.com/szw/vim-ctrlspace)
 1. [Indent Guides](https://github.com/nathanaelkane/vim-indent-guides)
 1. [Emmet-vim](https://github.com/mattn/emmet-vim/)

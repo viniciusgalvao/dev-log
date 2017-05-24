@@ -382,4 +382,5 @@
 1. [How To Learn Technical Things](http://jamison.dance/07-04-2016/how-to-learn-technical-things/)
 1. [Zero to 60 in Software Development: How to Jumpstart Your Career](https://www.youtube.com/watch?v=-qPh6I2hfjw&feature=youtu.be)
 1. [Want to Code? A University Degree Might be a Huge Waste of Time](https://medium.com/javascript-scene/want-to-code-a-university-degree-might-be-a-huge-waste-of-time-81e1817a2ef0#.rux8nowaf)
-
+1. [How do you make programmers work 60-80 hours per week?](http://brianknapp.me/programmer-60-80-hour-weeks)
+1. [Electron is flash for the desktop](https://josephg.com/blog/electron-is-flash-for-the-desktop/)

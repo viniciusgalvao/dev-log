@@ -56,3 +56,4 @@
 1. [How To Scale React Applications](https://www.smashingmagazine.com/2016/09/how-to-scale-react-applications/)
 1. [JSX Looks Like An Abomination - But it’s Good for You](https://medium.com/javascript-scene/jsx-looks-like-an-abomination-1c1ec351a918#.m7a3z877w)
 1. [Isn’t our code just the *BEST*](https://medium.com/bumpers/isnt-our-code-just-the-best-f028a78f33a9#.y61si6wxn)
+1. [Things nobody will tell you about React.js](https://medium.com/@gianluca.guarini/things-nobody-will-tell-you-about-react-js-3a373c1b03b4)
