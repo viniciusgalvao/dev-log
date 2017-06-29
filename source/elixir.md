@@ -50,4 +50,4 @@
 1. [Elixir is not Ruby](https://zeroclarkthirty.com/2015-11-01-elixir-is-not-ruby.html)
 1. [My year with Elixir](http://zorbash.com/post/my-year-with-elixir/)
 1. [Why Elixir](http://theerlangelist.com/article/why_elixir)
-
+1. [Elixir Version Manager - asdf](https://github.com/asdf-vm/asdf-elixir)

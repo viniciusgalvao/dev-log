@@ -24,5 +24,5 @@
 1. [Sample codes - boilerplate](http://hapijs.com/plugins#Boilerplate)
 1. [Can you use Hapi.JS as a Micro-services framework?](http://stackoverflow.com/questions/22987482/can-you-use-hapi-js-as-a-micro-services-framework)
 1. [Proxying Services With Hapi.js](http://tech.opentable.co.uk/blog/2014/11/28/proxying-with-hapi/)
-1. []()
+1. [Joi - validation multiples when](https://stackoverflow.com/questions/26509551/joi-validation-multiple-conditions)
 1. []()

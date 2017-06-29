@@ -5,6 +5,7 @@
 1. [hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards)
 1. [Contratado.me](http://devs.contratado.me/)
 1. [RemoteOK](http://remoteok.io/)
+1. [Functional Works](https://functional.works-hub.com/job-board)
 1. [Functional Jobs](https://functionaljobs.com/)
 1. [Onde Trabalhar](http://www.ondetrabalhar.com/)
 1. [Lovemondays](https://www.lovemondays.com.br/)
