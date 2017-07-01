@@ -51,3 +51,4 @@
 1. [My year with Elixir](http://zorbash.com/post/my-year-with-elixir/)
 1. [Why Elixir](http://theerlangelist.com/article/why_elixir)
 1. [Elixir Version Manager - asdf](https://github.com/asdf-vm/asdf-elixir)
+1. [Elixir.run - Compilation of elixir projects](https://elixir.run/)
