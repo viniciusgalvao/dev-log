@@ -212,3 +212,4 @@
 1. [JavaScript Graphing Library Comparison](http://www.jsgraphs.com/)
 1. [Systematic Function Design in JavaScript](https://strongloop.com/strongblog/systematic-function-design-in-javascript/)
 1. [You (probably) don't need a JavaScript framework](https://slack-files.com/T03JT4FC2-F151AAF7A-13fe6f98da)
+1. [JavaScript Fatigue or My History with Web Development](https://www.alexkras.com/my-history-with-web-development-or-javascript-fatigue/)

@@ -52,3 +52,4 @@
 1. [Why Elixir](http://theerlangelist.com/article/why_elixir)
 1. [Elixir Version Manager - asdf](https://github.com/asdf-vm/asdf-elixir)
 1. [Elixir.run - Compilation of elixir projects](https://elixir.run/)
+1. [How Discord Scaled Elixir to 5,000,000 Concurrent Users](https://blog.discordapp.com/scaling-elixir-f9b8e1e7c29b)
