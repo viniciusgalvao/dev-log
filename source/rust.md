@@ -4,4 +4,4 @@
 1. [What do C/C++ systems programmers think of Rust?](https://www.quora.com/What-do-C-C++-systems-programmers-think-of-Rust)
 1. [rust-learning](https://github.com/ctjhoa/rust-learning)
 1. [awesome-rust](https://github.com/rust-unofficial/awesome-rust)
-1. [Why you should, actually, rewrite it in Rust](https://unhandledexpression.com/2017/07/10/why-you-should-actually-rewrite-it-in-rust/)
+1. [Why you should, actually, rewrite it in Rust](https://unhandledexpression.com/2017/07/10/why-you-should-actually-rewrite-it-in-rust/) - [HN](https://news.ycombinator.com/item?id=14753201) - [/r](https://www.reddit.com/r/rust/comments/6mf0bx/why_you_should_actually_rewrite_it_in_rust/)

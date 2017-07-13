@@ -110,6 +110,7 @@
 1. **[UNIX](/source/unix.md)**
 1. **[UX/UI](/source/ux-ui.md)**
 1. **[Vim](/source/vim.md)**
+1. **[VS Code](/source/vscode.md)**
 1. **[Vue](/source/vue.md)**
 1. **[WebAssembly](/source/webassembly.md)**
 1. **[Web Components](/source/web-components.md)**
