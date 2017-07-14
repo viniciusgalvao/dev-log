@@ -53,3 +53,4 @@
 1. [Elixir Version Manager - asdf](https://github.com/asdf-vm/asdf-elixir)
 1. [Elixir.run - Compilation of elixir projects](https://elixir.run/)
 1. [How Discord Scaled Elixir to 5,000,000 Concurrent Users](https://blog.discordapp.com/scaling-elixir-f9b8e1e7c29b)
+1. Why variables in Elixir are re-bindable [1](https://gist.github.com/josevalim/ce2f5871a96b6cbcf2c1) - [2](https://stackoverflow.com/a/37170718/2849745) - [3](https://stackoverflow.com/a/30000838/2849745)
