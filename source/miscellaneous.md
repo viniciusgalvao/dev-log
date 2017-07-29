@@ -384,3 +384,5 @@
 1. [Want to Code? A University Degree Might be a Huge Waste of Time](https://medium.com/javascript-scene/want-to-code-a-university-degree-might-be-a-huge-waste-of-time-81e1817a2ef0#.rux8nowaf)
 1. [How do you make programmers work 60-80 hours per week?](http://brianknapp.me/programmer-60-80-hour-weeks)
 1. [Electron is flash for the desktop](https://josephg.com/blog/electron-is-flash-for-the-desktop/)
+1. [Confession Of A C/C++ Programmer](http://robert.ocallahan.org/2017/07/confession-of-cc-programmer.html) - [/r](https://www.reddit.com/r/programming/comments/6nsamp/confession_of_a_cc_programmer/)
+1. [The Single Most Important Driver Of Software Quality](http://lucasmreis.github.io/blog/the-single-most-important-driver-of-software-quality/)
