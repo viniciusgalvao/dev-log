@@ -58,3 +58,5 @@
 1. [Top 11 Programming Fonts for your Text Editor and Terminal](http://wesbos.com/programming-fonts/)
 1. [Stack on a budget](https://github.com/255kb/stack-on-a-budget/)
 1. [Coolors.co - color schema generator](https://coolors.co)
+1. [awesome-indie](https://github.com/mezod/awesome-indie)
+1. [Growth Supply - +400 free things for entrepreneurs and startups](http://growthsupply.com/free/all/)

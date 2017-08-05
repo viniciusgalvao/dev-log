@@ -9,6 +9,7 @@
 1. [RemoteOK](http://remoteok.io/)
 1. [Functional Works](https://functional.works-hub.com/job-board)
 1. [Functional Jobs](https://functionaljobs.com/)
+1. [VueJobs](https://vuejobs.com/)
 1. [Onde Trabalhar](http://www.ondetrabalhar.com/)
 1. [Lovemondays](https://www.lovemondays.com.br/)
 1. [Hired](https://hired.com)
@@ -53,4 +54,3 @@
 1. [brazil-expats](https://github.com/brazil-expats)
 1. [Trabalhar no exterior](https://github.com/frontendbr/forum/issues/56)
 1. [UpScored](https://upscored.com)
-
