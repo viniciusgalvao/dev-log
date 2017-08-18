@@ -43,6 +43,7 @@
 1. **[GraphQL](/source/graphql.md)**
 1. **[Gulp](/source/gulp.md)**
 1. **[Hapi.js](/source/hapijs.md)**
+1. **[Hardware](/source/hardware.md)**
 1. **[Harp.js](/source/harp.md)**
 1. **[Host](/source/host.md)**
 1. **[HTML](/source/html.md)**
