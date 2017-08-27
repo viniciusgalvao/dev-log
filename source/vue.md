@@ -12,3 +12,4 @@
 1. ["From a React point of Vue..." - comparing React.js to Vue.js for dynamic tabular data](https://engineering.footballradar.com/from-a-react-point-of-vue-comparing-reactjs-to-vuejs-for-dynamic-tabular-data/)
 1. ["A fairer Vue of React" - Comparing React to Vue for dynamic tabular data, part 2.](https://engineering.footballradar.com/a-fairer-vue-of-react-comparing-react-to-vue-for-dynamic-tabular-data-part-2/)
 1. [Consider VueJS for Your Next Web Project](https://blog.codeship.com/consider-vuejs-next-web-project/)
+1. [Handling global keypress event in Vue](https://laracasts.com/discuss/channels/vue/vuejs-listen-for-key-events-on-div/replies/146004)

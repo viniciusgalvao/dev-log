@@ -386,3 +386,4 @@
 1. [Electron is flash for the desktop](https://josephg.com/blog/electron-is-flash-for-the-desktop/)
 1. [Confession Of A C/C++ Programmer](http://robert.ocallahan.org/2017/07/confession-of-cc-programmer.html) - [/r](https://www.reddit.com/r/programming/comments/6nsamp/confession_of_a_cc_programmer/)
 1. [The Single Most Important Driver Of Software Quality](http://lucasmreis.github.io/blog/the-single-most-important-driver-of-software-quality/)
+1. [How to add title in code snippet - markdown](http://octopress.org/docs/blogging/code/)
