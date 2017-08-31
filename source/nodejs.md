@@ -166,3 +166,4 @@
 1. [AFTER A YEAR OF USING NODEJS IN PRODUCTION](http://geekforbrains.com/post/after-a-year-of-nodejs-in-production)
 1. [How Developers use Node.js - Survey Results](https://blog.risingstack.com/node-js-developer-survey-results-2016/)
 1. [How to get the npm global path prefix](http://stackoverflow.com/a/18383601/2849745)
+1. [Interview with Ryan Dahl, Creator of Node.js](https://www.mappingthejourney.com/single-post/2017/08/31/Episode-8-Interview-with-Ryan-Dahl-Creator-of-Nodejs)
