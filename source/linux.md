@@ -40,3 +40,4 @@
 1. [How to change LCD brightness from command line](http://askubuntu.com/questions/149054/how-to-change-lcd-brightness-from-command-line-or-via-script)
 1. [How to install the Monaco font](http://askubuntu.com/questions/333409/how-to-install-the-monaco-font)
 1. [Convert wav to mp3](http://stackoverflow.com/a/12952172/2849745)
+1. [How to do: underline, bold, italic, strikethrough, color, background, and size in Gnome Terminal?](https://askubuntu.com/questions/528928/how-to-do-underline-bold-italic-strikethrough-color-background-and-size-i)
