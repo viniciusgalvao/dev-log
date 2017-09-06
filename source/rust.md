@@ -10,5 +10,4 @@
 1. [contain-rs](https://github.com/contain-rs)
 1. [Are we learning yet? A work-in-progress to catalog the state of machine learning in Rust](http://www.arewelearningyet.com/)
 1. [rust-bio](https://github.com/rust-bio/rust-bio)
-1. []()
-1. []()
+

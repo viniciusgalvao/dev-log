@@ -55,3 +55,5 @@
 1. [How Discord Scaled Elixir to 5,000,000 Concurrent Users](https://blog.discordapp.com/scaling-elixir-f9b8e1e7c29b)
 1. Why variables in Elixir are re-bindable [1](https://gist.github.com/josevalim/ce2f5871a96b6cbcf2c1) - [2](https://stackoverflow.com/a/37170718/2849745) - [3](https://stackoverflow.com/a/30000838/2849745)
 1. [How to check if a protocol is implemented](https://stackoverflow.com/a/39609295/2849745)
+1. [Credo - static code analysis tool for the Elixir language with a focus on teaching and code consistency.](https://github.com/rrrene/credo)
+1. [dogma - code style linter for Elixir](https://github.com/lpil/dogma)
