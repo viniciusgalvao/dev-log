@@ -57,3 +57,4 @@
 1. [How to check if a protocol is implemented](https://stackoverflow.com/a/39609295/2849745)
 1. [Credo - static code analysis tool for the Elixir language with a focus on teaching and code consistency.](https://github.com/rrrene/credo)
 1. [dogma - code style linter for Elixir](https://github.com/lpil/dogma)
+1. [Vim for elixir](https://bitboxer.de/2016/11/13/vim-for-elixir/)

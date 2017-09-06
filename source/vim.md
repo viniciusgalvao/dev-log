@@ -66,6 +66,7 @@
 1. [How to temporarily exit vim and go back](http://stackoverflow.com/questions/1879219/how-to-temporarily-exit-vim-and-go-back)
 1. [How to use Vim netrw in ftp passive mode](http://alecthegeek.github.io/2007/02/06/handy-hack-how-to-use-vim-netrw-in-ftp-passive-mode.html)
 1. [Remap `esc` on vim-mode-plus](https://github.com/t9md/atom-vim-mode-plus/issues/130)
+1. [Why I switched from Vundle to Plug](https://jordaneldredge.com/blog/why-i-switched-from-vundle-to-plug/)
 
 ## Vim Plugins
 
@@ -104,3 +105,4 @@
 1. [Install vim-gnome to copy to clipboard](http://vim.wikia.com/wiki/Accessing_the_system_clipboard)
 1. [vim-jsbeautify](https://github.com/maksimr/vim-jsbeautify)
 1. [vim-gitgutter](https://github.com/airblade/vim-gitgutter)
+
