@@ -1,5 +1,4 @@
 # Vim
-
 1. [Use Vim Like A Pro](https://leanpub.com/VimLikeAPro)
 1. [Vim documentation: help](http://vimdoc.sourceforge.net/htmldoc/help.html)
 1. [A vim cheatsheet](http://www.worldtimzone.com/res/vi.html)
@@ -67,9 +66,12 @@
 1. [How to use Vim netrw in ftp passive mode](http://alecthegeek.github.io/2007/02/06/handy-hack-how-to-use-vim-netrw-in-ftp-passive-mode.html)
 1. [Remap `esc` on vim-mode-plus](https://github.com/t9md/atom-vim-mode-plus/issues/130)
 1. [Why I switched from Vundle to Plug](https://jordaneldredge.com/blog/why-i-switched-from-vundle-to-plug/)
+1. [awesome-vim-colorschemes](https://github.com/rafi/awesome-vim-colorschemes)
+1. [vim colors](http://vimcolors.com/)
+1. [Install vim-gnome to copy to clipboard](http://vim.wikia.com/wiki/Accessing_the_system_clipboard)
+1. [How to Spell Check with Vim](https://zanshin.net/2015/10/02/how-to-spell-check-with-vim/)
 
 ## Vim Plugins
-
 1. [vim-pathogen](https://github.com/tpope/vim-pathogen)
 1. [Unable to copy from vim to system clipboard](http://askubuntu.com/questions/347519/unable-to-copy-from-vim-to-system-clipboard)
 1. [vim-mode-plus](https://atom.io/packages/vim-mode-plus)
@@ -102,7 +104,6 @@
 1. [dockerfile.vim](https://github.com/honza/dockerfile.vim)
 1. [vim-jst](git@github.com:briancollins/vim-jst.git)
 1. [syntastic](https://github.com/scrooloose/syntastic)
-1. [Install vim-gnome to copy to clipboard](http://vim.wikia.com/wiki/Accessing_the_system_clipboard)
 1. [vim-jsbeautify](https://github.com/maksimr/vim-jsbeautify)
 1. [vim-gitgutter](https://github.com/airblade/vim-gitgutter)
-
+1. [vim-colorschemes](https://github.com/flazz/vim-colorschemes)
