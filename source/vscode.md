@@ -21,5 +21,8 @@
 1. octref.vetur
 1. robertohuertasm.vscode-icons
 1. shaharkazaz.git-merger
+1. streetsidesoftware.code-spell-checker
+1. sysoev.language-stylus
 1. vscodevim.vim
 1. wwm.better-align
+
