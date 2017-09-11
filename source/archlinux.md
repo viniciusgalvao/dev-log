@@ -7,3 +7,4 @@
 1. [Five reasons I roll with Arch Linux, and why you should too](https://www.cio.com/article/2898189/five-reasons-i-roll-with-arch-linux-and-why-you-should-too.html)
 1. [Arch linux for dummies](https://github.com/jieverson/dotfiles/wiki/arch-linux-for-dummies)
 1. [ArchLabs](https://erikdubois.be/category/linux/archlabs/)
+1. [Install Pacaur](https://cdavis.us/wiki/index.php/Arch_Linux_Install_Guide#Pacaur)
