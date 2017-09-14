@@ -20,7 +20,9 @@
 1. ranger (file manager)
 1. arandr (monitor management to get configs for i3)
 1. deepin-screenshot (screenshot tool)
+  - deepin-daemon (dependency to make copy to clipboard works)
 1. tree (visualize folder structure)
 1. breeze-default-cursor-theme (cursor theme)
 1. simplescreenrecorder (record screen)
 1. nemo (cinnamon GUI file manager)
+1. arc-icon-theme
