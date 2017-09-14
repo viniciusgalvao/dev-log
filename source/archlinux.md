@@ -9,7 +9,7 @@
 1. [ArchLabs](https://erikdubois.be/category/linux/archlabs/)
 1. [Install Pacaur](https://cdavis.us/wiki/index.php/Arch_Linux_Install_Guide#Pacaur)
 
-## Packages
+## Packages (Essential software)
 1. Pacaur (AUR package manager)
 1. Pavucontrol (audio)
 1. Urxvt (terminal emulator)
@@ -18,3 +18,8 @@
 1. ~~connman + wpa_supplicant + cmst (network management)~~
 1. nm-applet (network manager)
 1. ranger (file manager)
+1. arandr (monitor management to get configs for i3)
+1. deepin-screenshot (screenshot tool)
+1. tree (visualize folder structure)
+1. breeze-default-cursor-theme (cursor theme)
+1. simplescreenrecorder (record screen)
