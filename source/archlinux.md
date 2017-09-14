@@ -23,3 +23,4 @@
 1. tree (visualize folder structure)
 1. breeze-default-cursor-theme (cursor theme)
 1. simplescreenrecorder (record screen)
+1. nemo (cinnamon GUI file manager)
