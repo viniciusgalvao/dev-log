@@ -58,3 +58,4 @@
 1. [Credo - static code analysis tool for the Elixir language with a focus on teaching and code consistency.](https://github.com/rrrene/credo)
 1. [dogma - code style linter for Elixir](https://github.com/lpil/dogma)
 1. [Vim for elixir](https://bitboxer.de/2016/11/13/vim-for-elixir/)
+1. [mix-test.watch](https://github.com/lpil/mix-test.watch)

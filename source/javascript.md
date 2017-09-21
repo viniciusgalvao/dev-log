@@ -214,3 +214,5 @@
 1. [You (probably) don't need a JavaScript framework](https://slack-files.com/T03JT4FC2-F151AAF7A-13fe6f98da)
 1. [JavaScript Fatigue or My History with Web Development](https://www.alexkras.com/my-history-with-web-development-or-javascript-fatigue/)
 1. [WHY JAVASCRIPT DEVELOPMENT IS CRAZY](http://www.planningforaliens.com/blog/2016/04/11/why-js-development-is-crazy/)
+1. [Semicolons in JavaScript are optional](https://mislav.net/2010/05/semicolons/)
+1. [An Open Letter to JavaScript Leaders Regarding Semicolons](http://blog.izs.me/post/2353458699/an-open-letter-to-javascript-leaders-regarding)
