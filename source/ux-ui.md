@@ -16,3 +16,4 @@
 1. [HTML5 Up](https://html5up.net/)
 1. [Marvel Styleguide](https://marvelapp.com/styleguide/design/color-scheme)
 1. [mdbootstrap](https://mdbootstrap.com/components/)
+1. [Figma Vs Sketch: The Showdown](https://www.smashingmagazine.com/2017/03/sketch-figma-showdown/)

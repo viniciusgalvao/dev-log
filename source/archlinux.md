@@ -8,6 +8,8 @@
 1. [Arch linux for dummies](https://github.com/jieverson/dotfiles/wiki/arch-linux-for-dummies)
 1. [ArchLabs](https://erikdubois.be/category/linux/archlabs/)
 1. [Install Pacaur](https://cdavis.us/wiki/index.php/Arch_Linux_Install_Guide#Pacaur)
+1. [Arch Linux, i3wm](http://www.bit-101.com/blog/?p=4055)
+1. [Guide to install Arch Linux](http://randomwits.com/blog/arch-linux#.Wcgjx2dSyrx)
 
 ## Packages (Essential software)
 1. Pacaur (AUR package manager)

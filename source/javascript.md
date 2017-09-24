@@ -216,3 +216,4 @@
 1. [WHY JAVASCRIPT DEVELOPMENT IS CRAZY](http://www.planningforaliens.com/blog/2016/04/11/why-js-development-is-crazy/)
 1. [Semicolons in JavaScript are optional](https://mislav.net/2010/05/semicolons/)
 1. [An Open Letter to JavaScript Leaders Regarding Semicolons](http://blog.izs.me/post/2353458699/an-open-letter-to-javascript-leaders-regarding)
+1. [The Ultimate Guide to JavaScript Fatigue: Realities of our industry](http://lucasfcosta.com/2017/07/17/The-Ultimate-Guide-to-JavaScript-Fatigue.html)

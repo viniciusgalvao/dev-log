@@ -387,3 +387,7 @@
 1. [Confession Of A C/C++ Programmer](http://robert.ocallahan.org/2017/07/confession-of-cc-programmer.html) - [/r](https://www.reddit.com/r/programming/comments/6nsamp/confession_of_a_cc_programmer/)
 1. [The Single Most Important Driver Of Software Quality](http://lucasmreis.github.io/blog/the-single-most-important-driver-of-software-quality/)
 1. [How to add title in code snippet - markdown](http://octopress.org/docs/blogging/code/)
+1. [What is a headless CMS](https://css-tricks.com/what-is-a-headless-cms/#article-header-id-4)
+1. [Overcoming Intuition in Programming](https://amasad.me/intuition)
+1. [Hype-Driven development](https://blog.daftcode.pl/hype-driven-development-3469fc2e9b22#.paql7r4ot)
+1. [Blockchain is our first 22nd century technology](https://medium.freecodecamp.org/blockchain-is-our-first-22nd-century-technology-d4ad45fca2ce)

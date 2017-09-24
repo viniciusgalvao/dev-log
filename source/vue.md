@@ -14,3 +14,8 @@
 1. [Consider VueJS for Your Next Web Project](https://blog.codeship.com/consider-vuejs-next-web-project/)
 1. [Handling global keypress event in Vue](https://laracasts.com/discuss/channels/vue/vuejs-listen-for-key-events-on-div/replies/146004)
 1. [vue-cli scaffold problem EACCESS](https://github.com/vuejs/vue-cli/issues/487#issuecomment-326833076)
+1. [Understanding Vue.js Reactivity in Depth with Object.defineProperty()](https://www.timo-ernst.net/blog/2017/07/26/understanding-vue-js-reactivity-depth-object-defineproperty/)
+1. [Vue and NativeScript in one minute](https://www.nativescript.org/blog/vue-and-nativescript-in-one-minute)
+1. [Meet Vue.js, the Flexible JavaScript Framework](https://thenewstack.io/meet-vue-js-flexible-javascript-framework)
+1. [Native apps with Vue.js: Weex or NativeScript?](https://hackernoon.com/native-apps-with-vue-js-weex-or-nativescript-8d8f0bac041d)
+1. [Why we moved from Angular 2 to Vue.js (and why we didn’t choose React)](https://medium.com/reverdev/why-we-moved-from-angular-2-to-vue-js-and-why-we-didnt-choose-react-ef807d9f4163)

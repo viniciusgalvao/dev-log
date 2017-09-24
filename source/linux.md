@@ -41,3 +41,4 @@
 1. [How to install the Monaco font](http://askubuntu.com/questions/333409/how-to-install-the-monaco-font)
 1. [Convert wav to mp3](http://stackoverflow.com/a/12952172/2849745)
 1. [How to do: underline, bold, italic, strikethrough, color, background, and size in Gnome Terminal?](https://askubuntu.com/questions/528928/how-to-do-underline-bold-italic-strikethrough-color-background-and-size-i)
+1. [In Unix, what is a symbolic link, and how do I create one?](https://kb.iu.edu/d/abbe)
