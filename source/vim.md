@@ -1,4 +1,5 @@
 # Vim
+1. [vim awesome](https://vimawesome.com/)
 1. [Use Vim Like A Pro](https://leanpub.com/VimLikeAPro)
 1. [Vim documentation: help](http://vimdoc.sourceforge.net/htmldoc/help.html)
 1. [A vim cheatsheet](http://www.worldtimzone.com/res/vi.html)

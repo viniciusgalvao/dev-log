@@ -28,3 +28,5 @@
 1. simplescreenrecorder (record screen)
 1. nemo (cinnamon GUI file manager)
 1. arc-icon-theme
+1. fuseiso (mount iso and other formats files)
+1. handbrake - `ghb` to GUI (convert video_ts files)

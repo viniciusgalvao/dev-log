@@ -16,3 +16,4 @@
 1. [realworld projects](https://github.com/gothinkster/realworld)
 1. [project-based-learning](https://github.com/tuvttran/project-based-learning)
 1. [Web Developer Security Checklist](https://simplesecurity.sensedeep.com/web-developer-security-checklist-f2e4f43c9c56)
+1. [What Is a Web Application Engineering Degree?](http://learn.org/articles/What_is_a_Web_Application_Engineering_Degree.html)
