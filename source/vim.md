@@ -1,5 +1,5 @@
 # Vim
-
+1. [vim awesome](https://vimawesome.com/)
 1. [Use Vim Like A Pro](https://leanpub.com/VimLikeAPro)
 1. [Vim documentation: help](http://vimdoc.sourceforge.net/htmldoc/help.html)
 1. [A vim cheatsheet](http://www.worldtimzone.com/res/vi.html)
@@ -57,11 +57,25 @@
 1. [Showing a different background colour in Vim past 80 characters](http://stackoverflow.com/questions/2447109/showing-a-different-background-colour-in-vim-past-80-characters)
 1. [Sharpen your Vim with snippets](https://medium.com/brigade-engineering/sharpen-your-vim-with-snippets-767b693886db)
 1. [Display line numbers](http://vim.wikia.com/wiki/Display_line_numbers)
+1. [Everyday Vim – A Basic Vim Commands Cheat Sheet](https://spin.atomicobject.com/2016/04/19/vim-commands-cheat-sheet/)
+1. [VIM + Syntastic: how to disable the checker?](http://stackoverflow.com/questions/20030603/vim-syntastic-how-to-disable-the-checker)
+1. [Refresh changed content of file opened in vim](http://unix.stackexchange.com/a/149210)
+1. [Setting Vim whitespace preferences by filetype](http://stackoverflow.com/a/1563552/2849745)
+1. [Modify Remote Files with VIM's Built in FTP Plugin](https://www.marksanborn.net/software/modify-remote-files-with-vims-built-in-ftp-plugin/)
+1. [Multiple windows](https://www.cs.oberlin.edu/~kuperman/help/vim/windows.html)
+1. [How to temporarily exit vim and go back](http://stackoverflow.com/questions/1879219/how-to-temporarily-exit-vim-and-go-back)
+1. [How to use Vim netrw in ftp passive mode](http://alecthegeek.github.io/2007/02/06/handy-hack-how-to-use-vim-netrw-in-ftp-passive-mode.html)
+1. [Remap `esc` on vim-mode-plus](https://github.com/t9md/atom-vim-mode-plus/issues/130)
+1. [Why I switched from Vundle to Plug](https://jordaneldredge.com/blog/why-i-switched-from-vundle-to-plug/)
+1. [awesome-vim-colorschemes](https://github.com/rafi/awesome-vim-colorschemes)
+1. [vim colors](http://vimcolors.com/)
+1. [Install vim-gnome to copy to clipboard](http://vim.wikia.com/wiki/Accessing_the_system_clipboard)
+1. [How to Spell Check with Vim](https://zanshin.net/2015/10/02/how-to-spell-check-with-vim/)
 
 ## Vim Plugins
-
 1. [vim-pathogen](https://github.com/tpope/vim-pathogen)
 1. [Unable to copy from vim to system clipboard](http://askubuntu.com/questions/347519/unable-to-copy-from-vim-to-system-clipboard)
+1. [vim-mode-plus](https://atom.io/packages/vim-mode-plus)
 1. [Vim-CtrlSpace](https://github.com/szw/vim-ctrlspace)
 1. [Indent Guides](https://github.com/nathanaelkane/vim-indent-guides)
 1. [Emmet-vim](https://github.com/mattn/emmet-vim/)
@@ -75,6 +89,7 @@
 1. [NERDTree](https://github.com/scrooloose/nerdtree)
 1. [vim-easy-align](https://github.com/junegunn/vim-easy-align)
 1. [vim-airline](https://github.com/bling/vim-airline)
+1. [vim-airline-themes](https://github.com/vim-airline/vim-airline-themes)
 1. [jellybeans.vim](https://github.com/nanotech/jellybeans.vim)
 1. [vim-multiple-cursors](https://github.com/terryma/vim-multiple-cursors)
 1. [ultisnips](https://github.com/SirVer/ultisnips)
@@ -90,3 +105,6 @@
 1. [dockerfile.vim](https://github.com/honza/dockerfile.vim)
 1. [vim-jst](git@github.com:briancollins/vim-jst.git)
 1. [syntastic](https://github.com/scrooloose/syntastic)
+1. [vim-jsbeautify](https://github.com/maksimr/vim-jsbeautify)
+1. [vim-gitgutter](https://github.com/airblade/vim-gitgutter)
+1. [vim-colorschemes](https://github.com/flazz/vim-colorschemes)

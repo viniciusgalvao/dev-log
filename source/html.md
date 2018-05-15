@@ -26,3 +26,7 @@
 1. [Why you should learn WebGL](http://blog.pluralsight.com/webgl-basics)
 1. [What does “for” attribute do in label tags](http://stackoverflow.com/questions/18432376/what-does-for-attribute-do-in-label-tags)
 1. [HTML Character Entity Reference](http://dev.w3.org/html5/html-author/charref)
+1. [HTML reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference)
+1. [A list of everything that could go in the <head> of your document](https://github.com/joshbuchea/HEAD)
+1. [Removing whitespace between HTML elements when using line breaks](http://stackoverflow.com/a/1097063/2849745)
+1. [Disable input autocomplete - `autocomplete="off"`](http://stackoverflow.com/a/2531/2849745)
